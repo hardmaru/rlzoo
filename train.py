@@ -13,6 +13,7 @@ warnings.filterwarnings("ignore", category=FutureWarning, module='tensorflow')
 warnings.filterwarnings("ignore", category=UserWarning, module='gym')
 
 import gym
+import slimevolleygym
 import numpy as np
 import yaml
 # Optional dependencies
@@ -47,14 +48,14 @@ if __name__ == '__main__':
                         default='', type=str)
     parser.add_argument('--algo', help='RL Algorithm', default='ppo2',
                         type=str, required=False, choices=list(ALGOS.keys()))
-    parser.add_argument('-n', '--n-timesteps', help='Overwrite the number of timesteps', default=-1,
+    parser.add_argument('-n', '--n-timesteps', help='Overwrite the number of timesteps', default=200000000,
                         type=int)
     parser.add_argument('--log-interval', help='Override log interval (default: -1, no change)', default=-1,
                         type=int)
     parser.add_argument('--eval-freq', help='Evaluate the agent every n steps (if negative, no evaluation)',
-                        default=10000, type=int)
+                        default=250000, type=int)
     parser.add_argument('--eval-episodes', help='Number of episodes to use for evaluation',
-                        default=100, type=int)
+                        default=1000, type=int)
     parser.add_argument('--save-freq', help='Save the model every n steps (if negative, no checkpoint)',
                         default=-1, type=int)
     parser.add_argument('-f', '--log-folder', help='Log folder', type=str, default='logs')
