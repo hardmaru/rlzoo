@@ -39,7 +39,9 @@ from utils.utils import StoreDict
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--env', type=str, default="CartPole-v1", help='environment ID')
+    parser.add_argument('--env', type=str, default="SlimeVolleySurvivalNoFrameskip-v0", help='environment ID')
+    parser.add_argument('--eval-env', type=str, default="SlimeVolleyNoFrameskip-v0", help='environment ID')
+    parser.add_argument('--gpu', type=int, default=-1, help='Which GPU to use (-1 means CPU)')
     parser.add_argument('-tb', '--tensorboard-log', help='Tensorboard log dir', default='', type=str)
     parser.add_argument('-i', '--trained-agent', help='Path to a pretrained agent to continue training',
                         default='', type=str)
@@ -52,7 +54,7 @@ if __name__ == '__main__':
     parser.add_argument('--eval-freq', help='Evaluate the agent every n steps (if negative, no evaluation)',
                         default=10000, type=int)
     parser.add_argument('--eval-episodes', help='Number of episodes to use for evaluation',
-                        default=5, type=int)
+                        default=100, type=int)
     parser.add_argument('--save-freq', help='Save the model every n steps (if negative, no checkpoint)',
                         default=-1, type=int)
     parser.add_argument('-f', '--log-folder', help='Log folder', type=str, default='logs')
@@ -76,12 +78,20 @@ if __name__ == '__main__':
     parser.add_argument('--env-kwargs', type=str, nargs='+', action=StoreDict,
                         help='Optional keyword argument to pass to the env constructor')
     args = parser.parse_args()
+    
+    # configure GPU
+    gpu_string = str(args.gpu)
+    print("chosen gpu:", gpu_string)
+    os.environ["CUDA_VISIBLE_DEVICES"] = gpu_string
 
     # Going through custom gym packages to let them register in the global registory
     for env_module in args.gym_packages:
         importlib.import_module(env_module)
 
     env_id = args.env
+    eval_env_id = args.eval_env
+    print("training env:", env_id)
+    print("eval env:", eval_env_id)
     registered_envs = set(gym.envs.registry.env_specs.keys())
 
     # If the environment is not found, suggest the closest match
@@ -236,27 +246,32 @@ if __name__ == '__main__':
 
         # Do not log eval env (issue with writing the same file)
         log_dir = None if eval_env else save_path
+        
+        if eval_env:
+            create_env_id = eval_env_id
+        else:
+            create_env_id = env_id
 
         if is_atari:
             if args.verbose > 0:
                 print("Using Atari wrapper")
-            env = make_atari_env(env_id, num_env=n_envs, seed=args.seed)
+            env = make_atari_env(create_env_id, num_env=n_envs, seed=args.seed)
             # Frame-stacking with 4 frames
             env = VecFrameStack(env, n_stack=4)
         elif algo_ in ['dqn', 'ddpg']:
             if hyperparams.get('normalize', False):
                 print("WARNING: normalization not supported yet for DDPG/DQN")
-            env = gym.make(env_id, **env_kwargs)
+            env = gym.make(create_env_id, **env_kwargs)
             env.seed(args.seed)
             if env_wrapper is not None:
                 env = env_wrapper(env)
         else:
             if n_envs == 1:
-                env = DummyVecEnv([make_env(env_id, 0, args.seed, wrapper_class=env_wrapper, log_dir=log_dir, env_kwargs=env_kwargs)])
+                env = DummyVecEnv([make_env(create_env_id, 0, args.seed, wrapper_class=env_wrapper, log_dir=log_dir, env_kwargs=env_kwargs)])
             else:
                 # env = SubprocVecEnv([make_env(env_id, i, args.seed) for i in range(n_envs)])
                 # On most env, SubprocVecEnv does not help and is quite memory hungry
-                env = DummyVecEnv([make_env(env_id, i, args.seed, log_dir=log_dir,
+                env = DummyVecEnv([make_env(create_env_id, i, args.seed, log_dir=log_dir,
                                             wrapper_class=env_wrapper, env_kwargs=env_kwargs) for i in range(n_envs)])
             if normalize:
                 if args.verbose > 0:
