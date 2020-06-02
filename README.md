@@ -1,8 +1,16 @@
-[![Build Status](https://travis-ci.com/araffin/rl-baselines-zoo.svg?branch=master)](https://travis-ci.com/araffin/rl-baselines-zoo)
+# Fork of RL Baselines Zoo for SlimeVolleyGym
 
-# RL Baselines Zoo: a Collection of Pre-Trained Reinforcement Learning Agents
+**Note: This is a fork of [Baselines Zoo](https://github.com/araffin/rl-baselines-zoo), not the official version, for training agents on [Slime Volleyball Environment](https://github.com/hardmaru/slimevolleygym/).**
 
-<img src="images/BipedalWalkerHardcorePPO2.gif" align="right" width="35%"/>
+*PPO2, ACER, ACKTR, A2C, DQN training for SlimeVolleyNoFrameSkip-v0 are in `logs` directory.*
+<br/>
+<img src="https://media.giphy.com/media/WsMaF3xeATeiCv7dBq/giphy.gif" align="right" width="100%"/></img></br>
+ 
+<p><br/><br/></p>
+
+&nbsp;
+---
+## RL Baselines Zoo: a Collection of Pre-Trained Reinforcement Learning Agents
 
 A collection of trained Reinforcement Learning (RL) agents, with tuned hyperparameters, using [Stable Baselines](https://github.com/hill-a/stable-baselines).
 

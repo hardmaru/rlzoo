@@ -10,6 +10,7 @@ from collections import OrderedDict
 
 # numpy warnings because of tensorflow
 warnings.filterwarnings("ignore", category=FutureWarning, module='tensorflow')
+warnings.filterwarnings("ignore", category=FutureWarning, module='h5py')
 warnings.filterwarnings("ignore", category=UserWarning, module='gym')
 
 import gym
@@ -256,7 +257,8 @@ if __name__ == '__main__':
         if is_atari:
             if args.verbose > 0:
                 print("Using Atari wrapper")
-            env = make_atari_env(create_env_id, num_env=n_envs, seed=args.seed)
+            env = make_atari_env(create_env_id, num_env=n_envs, seed=args.seed,
+                                 wrapper_kwargs=dict(clip_rewards=False))
             # Frame-stacking with 4 frames
             env = VecFrameStack(env, n_stack=4)
         elif algo_ in ['dqn', 'ddpg']:
