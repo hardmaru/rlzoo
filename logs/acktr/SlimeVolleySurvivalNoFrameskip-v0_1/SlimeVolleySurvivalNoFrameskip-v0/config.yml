@@ -1,0 +1,6 @@
+!!python/object/apply:collections.OrderedDict
+- - [async_eigen_decomp, true]
+  - [lr_schedule, linear]
+  - [n_envs, 32]
+  - [n_timesteps, 5000000.0]
+  - [policy, CnnPolicy]

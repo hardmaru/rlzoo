@@ -1,0 +1,4796 @@
+chosen gpu: -1
+training env: SlimeVolleySurvivalNoFrameskip-v0
+eval env: SlimeVolleyNoFrameskip-v0
+========== SlimeVolleySurvivalNoFrameskip-v0 ==========
+Seed: 0
+OrderedDict([('async_eigen_decomp', True),
+             ('lr_schedule', 'linear'),
+             ('n_envs', 32),
+             ('n_timesteps', 5000000.0),
+             ('policy', 'CnnPolicy')])
+Using 32 environments
+Overwriting n_timesteps with n=200000000
+Using Atari wrapper
+Creating test environment
+Using Atari wrapper
+Log path: logs/acktr/SlimeVolleySurvivalNoFrameskip-v0_2
+---------------------------------
+| explained_variance | -0.057   |
+| fps                | 44       |
+| nupdates           | 1        |
+| policy_entropy     | 1.79     |
+| policy_loss        | -0.0486  |
+| total_timesteps    | 640      |
+| value_loss         | 0.234    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 148      |
+| ep_reward_mean     | 1        |
+| explained_variance | 0.567    |
+| fps                | 14       |
+| nupdates           | 100      |
+| policy_entropy     | 1.71     |
+| policy_loss        | 0.0485   |
+| total_timesteps    | 64000    |
+| value_loss         | 0.127    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 156      |
+| ep_reward_mean     | 1.4      |
+| explained_variance | 0.676    |
+| fps                | 13       |
+| nupdates           | 200      |
+| policy_entropy     | 1.74     |
+| policy_loss        | -0.0818  |
+| total_timesteps    | 128000   |
+| value_loss         | 0.133    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 155      |
+| ep_reward_mean     | 1.34     |
+| explained_variance | 0.728    |
+| fps                | 13       |
+| nupdates           | 300      |
+| policy_entropy     | 1.72     |
+| policy_loss        | -0.0104  |
+| total_timesteps    | 192000   |
+| value_loss         | 0.077    |
+---------------------------------
+Eval num_timesteps=249984, episode_reward=-4.82 +/- 0.43
+Episode length: 155.46 +/- 35.32
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 157      |
+| ep_reward_mean     | 1.5      |
+| explained_variance | 0.664    |
+| fps                | 12       |
+| nupdates           | 400      |
+| policy_entropy     | 1.72     |
+| policy_loss        | 0.0286   |
+| total_timesteps    | 256000   |
+| value_loss         | 0.106    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 158      |
+| ep_reward_mean     | 1.49     |
+| explained_variance | 0.537    |
+| fps                | 12       |
+| nupdates           | 500      |
+| policy_entropy     | 1.67     |
+| policy_loss        | 0.1      |
+| total_timesteps    | 320000   |
+| value_loss         | 0.155    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 156      |
+| ep_reward_mean     | 1.45     |
+| explained_variance | 0.548    |
+| fps                | 13       |
+| nupdates           | 600      |
+| policy_entropy     | 1.69     |
+| policy_loss        | 0.0066   |
+| total_timesteps    | 384000   |
+| value_loss         | 0.146    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 150      |
+| ep_reward_mean     | 1.11     |
+| explained_variance | 0.621    |
+| fps                | 13       |
+| nupdates           | 700      |
+| policy_entropy     | 1.66     |
+| policy_loss        | 0.153    |
+| total_timesteps    | 448000   |
+| value_loss         | 0.167    |
+---------------------------------
+Eval num_timesteps=499968, episode_reward=-4.84 +/- 0.43
+Episode length: 157.26 +/- 37.88
+---------------------------------
+| ep_len_mean        | 161      |
+| ep_reward_mean     | 1.65     |
+| explained_variance | 0.848    |
+| fps                | 12       |
+| nupdates           | 800      |
+| policy_entropy     | 1.65     |
+| policy_loss        | -0.0158  |
+| total_timesteps    | 512000   |
+| value_loss         | 0.0556   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 158      |
+| ep_reward_mean     | 1.5      |
+| explained_variance | 0.701    |
+| fps                | 12       |
+| nupdates           | 900      |
+| policy_entropy     | 1.71     |
+| policy_loss        | 0.0146   |
+| total_timesteps    | 576000   |
+| value_loss         | 0.104    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 162      |
+| ep_reward_mean     | 1.65     |
+| explained_variance | 0.716    |
+| fps                | 12       |
+| nupdates           | 1000     |
+| policy_entropy     | 1.69     |
+| policy_loss        | -0.115   |
+| total_timesteps    | 640000   |
+| value_loss         | 0.103    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 157      |
+| ep_reward_mean     | 1.41     |
+| explained_variance | 0.71     |
+| fps                | 13       |
+| nupdates           | 1100     |
+| policy_entropy     | 1.68     |
+| policy_loss        | 0.0321   |
+| total_timesteps    | 704000   |
+| value_loss         | 0.134    |
+---------------------------------
+Eval num_timesteps=749952, episode_reward=-4.85 +/- 0.43
+Episode length: 163.48 +/- 39.09
+---------------------------------
+| ep_len_mean        | 152      |
+| ep_reward_mean     | 1.23     |
+| explained_variance | 0.771    |
+| fps                | 12       |
+| nupdates           | 1200     |
+| policy_entropy     | 1.66     |
+| policy_loss        | 0.0295   |
+| total_timesteps    | 768000   |
+| value_loss         | 0.0787   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 154      |
+| ep_reward_mean     | 1.29     |
+| explained_variance | 0.663    |
+| fps                | 12       |
+| nupdates           | 1300     |
+| policy_entropy     | 1.67     |
+| policy_loss        | 0.189    |
+| total_timesteps    | 832000   |
+| value_loss         | 0.177    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 148      |
+| ep_reward_mean     | 1.04     |
+| explained_variance | 0.712    |
+| fps                | 12       |
+| nupdates           | 1400     |
+| policy_entropy     | 1.71     |
+| policy_loss        | -0.00887 |
+| total_timesteps    | 896000   |
+| value_loss         | 0.122    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 156      |
+| ep_reward_mean     | 1.39     |
+| explained_variance | 0.649    |
+| fps                | 12       |
+| nupdates           | 1500     |
+| policy_entropy     | 1.67     |
+| policy_loss        | 0.143    |
+| total_timesteps    | 960000   |
+| value_loss         | 0.203    |
+---------------------------------
+Eval num_timesteps=999936, episode_reward=-4.81 +/- 0.46
+Episode length: 166.86 +/- 40.46
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 162      |
+| ep_reward_mean     | 1.66     |
+| explained_variance | 0.628    |
+| fps                | 12       |
+| nupdates           | 1600     |
+| policy_entropy     | 1.67     |
+| policy_loss        | 0.0997   |
+| total_timesteps    | 1024000  |
+| value_loss         | 0.148    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 158      |
+| ep_reward_mean     | 1.41     |
+| explained_variance | 0.605    |
+| fps                | 12       |
+| nupdates           | 1700     |
+| policy_entropy     | 1.6      |
+| policy_loss        | -0.0102  |
+| total_timesteps    | 1088000  |
+| value_loss         | 0.193    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 166      |
+| ep_reward_mean     | 1.76     |
+| explained_variance | 0.777    |
+| fps                | 12       |
+| nupdates           | 1800     |
+| policy_entropy     | 1.61     |
+| policy_loss        | -0.197   |
+| total_timesteps    | 1152000  |
+| value_loss         | 0.0928   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 159      |
+| ep_reward_mean     | 1.52     |
+| explained_variance | 0.669    |
+| fps                | 12       |
+| nupdates           | 1900     |
+| policy_entropy     | 1.67     |
+| policy_loss        | -0.00365 |
+| total_timesteps    | 1216000  |
+| value_loss         | 0.144    |
+---------------------------------
+Eval num_timesteps=1249920, episode_reward=-4.81 +/- 0.44
+Episode length: 168.92 +/- 41.42
+---------------------------------
+| ep_len_mean        | 154      |
+| ep_reward_mean     | 1.33     |
+| explained_variance | 0.594    |
+| fps                | 12       |
+| nupdates           | 2000     |
+| policy_entropy     | 1.68     |
+| policy_loss        | -0.0241  |
+| total_timesteps    | 1280000  |
+| value_loss         | 0.148    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 161      |
+| ep_reward_mean     | 1.65     |
+| explained_variance | 0.803    |
+| fps                | 12       |
+| nupdates           | 2100     |
+| policy_entropy     | 1.62     |
+| policy_loss        | -0.0969  |
+| total_timesteps    | 1344000  |
+| value_loss         | 0.0569   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 160      |
+| ep_reward_mean     | 1.57     |
+| explained_variance | 0.727    |
+| fps                | 12       |
+| nupdates           | 2200     |
+| policy_entropy     | 1.56     |
+| policy_loss        | 0.0601   |
+| total_timesteps    | 1408000  |
+| value_loss         | 0.147    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 169      |
+| ep_reward_mean     | 1.88     |
+| explained_variance | 0.692    |
+| fps                | 12       |
+| nupdates           | 2300     |
+| policy_entropy     | 1.61     |
+| policy_loss        | 0.019    |
+| total_timesteps    | 1472000  |
+| value_loss         | 0.155    |
+---------------------------------
+Eval num_timesteps=1499904, episode_reward=-4.82 +/- 0.44
+Episode length: 170.38 +/- 40.53
+---------------------------------
+| ep_len_mean        | 167      |
+| ep_reward_mean     | 1.92     |
+| explained_variance | 0.591    |
+| fps                | 12       |
+| nupdates           | 2400     |
+| policy_entropy     | 1.64     |
+| policy_loss        | 0.116    |
+| total_timesteps    | 1536000  |
+| value_loss         | 0.189    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 161      |
+| ep_reward_mean     | 1.57     |
+| explained_variance | 0.762    |
+| fps                | 12       |
+| nupdates           | 2500     |
+| policy_entropy     | 1.61     |
+| policy_loss        | -0.0708  |
+| total_timesteps    | 1600000  |
+| value_loss         | 0.0922   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 163      |
+| ep_reward_mean     | 1.64     |
+| explained_variance | 0.669    |
+| fps                | 12       |
+| nupdates           | 2600     |
+| policy_entropy     | 1.52     |
+| policy_loss        | -0.126   |
+| total_timesteps    | 1664000  |
+| value_loss         | 0.143    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 160      |
+| ep_reward_mean     | 1.53     |
+| explained_variance | 0.671    |
+| fps                | 12       |
+| nupdates           | 2700     |
+| policy_entropy     | 1.56     |
+| policy_loss        | -0.00838 |
+| total_timesteps    | 1728000  |
+| value_loss         | 0.126    |
+---------------------------------
+Eval num_timesteps=1749888, episode_reward=-4.79 +/- 0.46
+Episode length: 171.59 +/- 43.38
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 165      |
+| ep_reward_mean     | 1.74     |
+| explained_variance | 0.81     |
+| fps                | 12       |
+| nupdates           | 2800     |
+| policy_entropy     | 1.64     |
+| policy_loss        | -0.18    |
+| total_timesteps    | 1792000  |
+| value_loss         | 0.0877   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 163      |
+| ep_reward_mean     | 1.6      |
+| explained_variance | 0.745    |
+| fps                | 12       |
+| nupdates           | 2900     |
+| policy_entropy     | 1.65     |
+| policy_loss        | -0.158   |
+| total_timesteps    | 1856000  |
+| value_loss         | 0.0918   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 168      |
+| ep_reward_mean     | 1.84     |
+| explained_variance | 0.74     |
+| fps                | 12       |
+| nupdates           | 3000     |
+| policy_entropy     | 1.65     |
+| policy_loss        | -0.0657  |
+| total_timesteps    | 1920000  |
+| value_loss         | 0.0935   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 166      |
+| ep_reward_mean     | 1.78     |
+| explained_variance | 0.726    |
+| fps                | 12       |
+| nupdates           | 3100     |
+| policy_entropy     | 1.63     |
+| policy_loss        | -0.0182  |
+| total_timesteps    | 1984000  |
+| value_loss         | 0.164    |
+---------------------------------
+Eval num_timesteps=1999872, episode_reward=-4.81 +/- 0.44
+Episode length: 175.20 +/- 41.85
+---------------------------------
+| ep_len_mean        | 174      |
+| ep_reward_mean     | 2.15     |
+| explained_variance | 0.67     |
+| fps                | 12       |
+| nupdates           | 3200     |
+| policy_entropy     | 1.62     |
+| policy_loss        | -0.0129  |
+| total_timesteps    | 2048000  |
+| value_loss         | 0.0991   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 177      |
+| ep_reward_mean     | 2.23     |
+| explained_variance | 0.821    |
+| fps                | 12       |
+| nupdates           | 3300     |
+| policy_entropy     | 1.61     |
+| policy_loss        | -0.0409  |
+| total_timesteps    | 2112000  |
+| value_loss         | 0.0756   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 179      |
+| ep_reward_mean     | 2.32     |
+| explained_variance | 0.768    |
+| fps                | 12       |
+| nupdates           | 3400     |
+| policy_entropy     | 1.54     |
+| policy_loss        | -0.084   |
+| total_timesteps    | 2176000  |
+| value_loss         | 0.126    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 177      |
+| ep_reward_mean     | 2.31     |
+| explained_variance | 0.753    |
+| fps                | 12       |
+| nupdates           | 3500     |
+| policy_entropy     | 1.56     |
+| policy_loss        | 0.0496   |
+| total_timesteps    | 2240000  |
+| value_loss         | 0.143    |
+---------------------------------
+Eval num_timesteps=2249856, episode_reward=-4.76 +/- 0.51
+Episode length: 198.49 +/- 52.17
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 176      |
+| ep_reward_mean     | 2.22     |
+| explained_variance | 0.672    |
+| fps                | 12       |
+| nupdates           | 3600     |
+| policy_entropy     | 1.57     |
+| policy_loss        | -0.0192  |
+| total_timesteps    | 2304000  |
+| value_loss         | 0.163    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 180      |
+| ep_reward_mean     | 2.36     |
+| explained_variance | 0.816    |
+| fps                | 12       |
+| nupdates           | 3700     |
+| policy_entropy     | 1.5      |
+| policy_loss        | -0.13    |
+| total_timesteps    | 2368000  |
+| value_loss         | 0.0764   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 178      |
+| ep_reward_mean     | 2.26     |
+| explained_variance | 0.782    |
+| fps                | 12       |
+| nupdates           | 3800     |
+| policy_entropy     | 1.55     |
+| policy_loss        | -0.00945 |
+| total_timesteps    | 2432000  |
+| value_loss         | 0.106    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 192      |
+| ep_reward_mean     | 2.94     |
+| explained_variance | 0.732    |
+| fps                | 12       |
+| nupdates           | 3900     |
+| policy_entropy     | 1.44     |
+| policy_loss        | 0.00264  |
+| total_timesteps    | 2496000  |
+| value_loss         | 0.136    |
+---------------------------------
+Eval num_timesteps=2499840, episode_reward=-4.76 +/- 0.52
+Episode length: 205.96 +/- 56.91
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 189      |
+| ep_reward_mean     | 2.76     |
+| explained_variance | 0.643    |
+| fps                | 12       |
+| nupdates           | 4000     |
+| policy_entropy     | 1.42     |
+| policy_loss        | -0.0193  |
+| total_timesteps    | 2560000  |
+| value_loss         | 0.169    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 194      |
+| ep_reward_mean     | 2.96     |
+| explained_variance | 0.807    |
+| fps                | 12       |
+| nupdates           | 4100     |
+| policy_entropy     | 1.5      |
+| policy_loss        | -0.0739  |
+| total_timesteps    | 2624000  |
+| value_loss         | 0.101    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 204      |
+| ep_reward_mean     | 3.35     |
+| explained_variance | 0.625    |
+| fps                | 12       |
+| nupdates           | 4200     |
+| policy_entropy     | 1.36     |
+| policy_loss        | 0.149    |
+| total_timesteps    | 2688000  |
+| value_loss         | 0.198    |
+---------------------------------
+Eval num_timesteps=2749824, episode_reward=-4.77 +/- 0.50
+Episode length: 203.77 +/- 54.12
+---------------------------------
+| ep_len_mean        | 192      |
+| ep_reward_mean     | 2.85     |
+| explained_variance | 0.832    |
+| fps                | 12       |
+| nupdates           | 4300     |
+| policy_entropy     | 1.45     |
+| policy_loss        | 0.00349  |
+| total_timesteps    | 2752000  |
+| value_loss         | 0.0984   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 207      |
+| ep_reward_mean     | 3.45     |
+| explained_variance | 0.674    |
+| fps                | 12       |
+| nupdates           | 4400     |
+| policy_entropy     | 1.41     |
+| policy_loss        | -0.0887  |
+| total_timesteps    | 2816000  |
+| value_loss         | 0.177    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 202      |
+| ep_reward_mean     | 3.33     |
+| explained_variance | 0.591    |
+| fps                | 12       |
+| nupdates           | 4500     |
+| policy_entropy     | 1.42     |
+| policy_loss        | 0.0439   |
+| total_timesteps    | 2880000  |
+| value_loss         | 0.149    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 209      |
+| ep_reward_mean     | 3.65     |
+| explained_variance | 0.695    |
+| fps                | 12       |
+| nupdates           | 4600     |
+| policy_entropy     | 1.31     |
+| policy_loss        | 0.00946  |
+| total_timesteps    | 2944000  |
+| value_loss         | 0.147    |
+---------------------------------
+Eval num_timesteps=2999808, episode_reward=-4.74 +/- 0.53
+Episode length: 234.26 +/- 65.90
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 210      |
+| ep_reward_mean     | 3.6      |
+| explained_variance | 0.715    |
+| fps                | 12       |
+| nupdates           | 4700     |
+| policy_entropy     | 1.38     |
+| policy_loss        | 0.0574   |
+| total_timesteps    | 3008000  |
+| value_loss         | 0.145    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 215      |
+| ep_reward_mean     | 3.77     |
+| explained_variance | 0.73     |
+| fps                | 12       |
+| nupdates           | 4800     |
+| policy_entropy     | 1.35     |
+| policy_loss        | -0.0202  |
+| total_timesteps    | 3072000  |
+| value_loss         | 0.164    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 223      |
+| ep_reward_mean     | 4.21     |
+| explained_variance | 0.767    |
+| fps                | 12       |
+| nupdates           | 4900     |
+| policy_entropy     | 1.39     |
+| policy_loss        | -0.0197  |
+| total_timesteps    | 3136000  |
+| value_loss         | 0.165    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 223      |
+| ep_reward_mean     | 4.08     |
+| explained_variance | 0.727    |
+| fps                | 12       |
+| nupdates           | 5000     |
+| policy_entropy     | 1.35     |
+| policy_loss        | -0.0202  |
+| total_timesteps    | 3200000  |
+| value_loss         | 0.139    |
+---------------------------------
+Eval num_timesteps=3249792, episode_reward=-4.74 +/- 0.55
+Episode length: 240.58 +/- 69.64
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 214      |
+| ep_reward_mean     | 3.69     |
+| explained_variance | 0.729    |
+| fps                | 12       |
+| nupdates           | 5100     |
+| policy_entropy     | 1.3      |
+| policy_loss        | -0.0139  |
+| total_timesteps    | 3264000  |
+| value_loss         | 0.143    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 224      |
+| ep_reward_mean     | 4.14     |
+| explained_variance | 0.671    |
+| fps                | 12       |
+| nupdates           | 5200     |
+| policy_entropy     | 1.34     |
+| policy_loss        | -0.12    |
+| total_timesteps    | 3328000  |
+| value_loss         | 0.173    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 219      |
+| ep_reward_mean     | 3.89     |
+| explained_variance | 0.745    |
+| fps                | 12       |
+| nupdates           | 5300     |
+| policy_entropy     | 1.37     |
+| policy_loss        | -0.0255  |
+| total_timesteps    | 3392000  |
+| value_loss         | 0.121    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 238      |
+| ep_reward_mean     | 4.75     |
+| explained_variance | 0.793    |
+| fps                | 12       |
+| nupdates           | 5400     |
+| policy_entropy     | 1.23     |
+| policy_loss        | -0.00928 |
+| total_timesteps    | 3456000  |
+| value_loss         | 0.134    |
+---------------------------------
+Eval num_timesteps=3499776, episode_reward=-4.71 +/- 0.55
+Episode length: 278.07 +/- 86.14
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 262      |
+| ep_reward_mean     | 5.73     |
+| explained_variance | 0.798    |
+| fps                | 12       |
+| nupdates           | 5500     |
+| policy_entropy     | 1.36     |
+| policy_loss        | 0.0164   |
+| total_timesteps    | 3520000  |
+| value_loss         | 0.13     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 247      |
+| ep_reward_mean     | 5.03     |
+| explained_variance | 0.831    |
+| fps                | 12       |
+| nupdates           | 5600     |
+| policy_entropy     | 1.27     |
+| policy_loss        | -0.0648  |
+| total_timesteps    | 3584000  |
+| value_loss         | 0.141    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 249      |
+| ep_reward_mean     | 5.22     |
+| explained_variance | 0.803    |
+| fps                | 12       |
+| nupdates           | 5700     |
+| policy_entropy     | 1.24     |
+| policy_loss        | 0.0286   |
+| total_timesteps    | 3648000  |
+| value_loss         | 0.0918   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 247      |
+| ep_reward_mean     | 5.21     |
+| explained_variance | 0.797    |
+| fps                | 12       |
+| nupdates           | 5800     |
+| policy_entropy     | 1.21     |
+| policy_loss        | 0.0886   |
+| total_timesteps    | 3712000  |
+| value_loss         | 0.134    |
+---------------------------------
+Eval num_timesteps=3749760, episode_reward=-4.65 +/- 0.62
+Episode length: 299.88 +/- 96.49
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 270      |
+| ep_reward_mean     | 6.16     |
+| explained_variance | 0.806    |
+| fps                | 12       |
+| nupdates           | 5900     |
+| policy_entropy     | 1.28     |
+| policy_loss        | 0.00155  |
+| total_timesteps    | 3776000  |
+| value_loss         | 0.18     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 261      |
+| ep_reward_mean     | 5.71     |
+| explained_variance | 0.738    |
+| fps                | 12       |
+| nupdates           | 6000     |
+| policy_entropy     | 1.14     |
+| policy_loss        | 0.0467   |
+| total_timesteps    | 3840000  |
+| value_loss         | 0.166    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 280      |
+| ep_reward_mean     | 6.44     |
+| explained_variance | 0.755    |
+| fps                | 12       |
+| nupdates           | 6100     |
+| policy_entropy     | 1.13     |
+| policy_loss        | -0.0259  |
+| total_timesteps    | 3904000  |
+| value_loss         | 0.178    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 268      |
+| ep_reward_mean     | 6.03     |
+| explained_variance | 0.774    |
+| fps                | 12       |
+| nupdates           | 6200     |
+| policy_entropy     | 1.06     |
+| policy_loss        | 0.000393 |
+| total_timesteps    | 3968000  |
+| value_loss         | 0.168    |
+---------------------------------
+Eval num_timesteps=3999744, episode_reward=-4.67 +/- 0.65
+Episode length: 316.17 +/- 102.08
+---------------------------------
+| ep_len_mean        | 283      |
+| ep_reward_mean     | 6.71     |
+| explained_variance | 0.787    |
+| fps                | 12       |
+| nupdates           | 6300     |
+| policy_entropy     | 1.16     |
+| policy_loss        | -0.0544  |
+| total_timesteps    | 4032000  |
+| value_loss         | 0.144    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 286      |
+| ep_reward_mean     | 6.7      |
+| explained_variance | 0.665    |
+| fps                | 12       |
+| nupdates           | 6400     |
+| policy_entropy     | 1.23     |
+| policy_loss        | -0.107   |
+| total_timesteps    | 4096000  |
+| value_loss         | 0.18     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 293      |
+| ep_reward_mean     | 7.08     |
+| explained_variance | 0.728    |
+| fps                | 12       |
+| nupdates           | 6500     |
+| policy_entropy     | 1.11     |
+| policy_loss        | -0.0226  |
+| total_timesteps    | 4160000  |
+| value_loss         | 0.206    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 303      |
+| ep_reward_mean     | 7.49     |
+| explained_variance | 0.789    |
+| fps                | 12       |
+| nupdates           | 6600     |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0417  |
+| total_timesteps    | 4224000  |
+| value_loss         | 0.172    |
+---------------------------------
+Eval num_timesteps=4249728, episode_reward=-4.64 +/- 0.62
+Episode length: 351.60 +/- 119.70
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 312      |
+| ep_reward_mean     | 7.85     |
+| explained_variance | 0.76     |
+| fps                | 12       |
+| nupdates           | 6700     |
+| policy_entropy     | 1.16     |
+| policy_loss        | -0.127   |
+| total_timesteps    | 4288000  |
+| value_loss         | 0.163    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 285      |
+| ep_reward_mean     | 6.68     |
+| explained_variance | 0.763    |
+| fps                | 12       |
+| nupdates           | 6800     |
+| policy_entropy     | 1.15     |
+| policy_loss        | 0.175    |
+| total_timesteps    | 4352000  |
+| value_loss         | 0.2      |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 306      |
+| ep_reward_mean     | 7.51     |
+| explained_variance | 0.775    |
+| fps                | 12       |
+| nupdates           | 6900     |
+| policy_entropy     | 1.16     |
+| policy_loss        | -0.0711  |
+| total_timesteps    | 4416000  |
+| value_loss         | 0.156    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 337      |
+| ep_reward_mean     | 8.85     |
+| explained_variance | 0.882    |
+| fps                | 12       |
+| nupdates           | 7000     |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.0212  |
+| total_timesteps    | 4480000  |
+| value_loss         | 0.115    |
+---------------------------------
+Eval num_timesteps=4499712, episode_reward=-4.57 +/- 0.73
+Episode length: 376.18 +/- 126.35
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 312      |
+| ep_reward_mean     | 7.73     |
+| explained_variance | 0.626    |
+| fps                | 12       |
+| nupdates           | 7100     |
+| policy_entropy     | 1.07     |
+| policy_loss        | 0.0966   |
+| total_timesteps    | 4544000  |
+| value_loss         | 0.27     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 335      |
+| ep_reward_mean     | 8.71     |
+| explained_variance | 0.738    |
+| fps                | 12       |
+| nupdates           | 7200     |
+| policy_entropy     | 1.16     |
+| policy_loss        | -0.0773  |
+| total_timesteps    | 4608000  |
+| value_loss         | 0.207    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 340      |
+| ep_reward_mean     | 8.88     |
+| explained_variance | 0.732    |
+| fps                | 12       |
+| nupdates           | 7300     |
+| policy_entropy     | 1.05     |
+| policy_loss        | 0.0391   |
+| total_timesteps    | 4672000  |
+| value_loss         | 0.146    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 340      |
+| ep_reward_mean     | 8.91     |
+| explained_variance | 0.698    |
+| fps                | 12       |
+| nupdates           | 7400     |
+| policy_entropy     | 1.05     |
+| policy_loss        | 0.0378   |
+| total_timesteps    | 4736000  |
+| value_loss         | 0.334    |
+---------------------------------
+Eval num_timesteps=4749696, episode_reward=-4.57 +/- 0.72
+Episode length: 422.86 +/- 143.97
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 345      |
+| ep_reward_mean     | 9.02     |
+| explained_variance | 0.757    |
+| fps                | 12       |
+| nupdates           | 7500     |
+| policy_entropy     | 1.15     |
+| policy_loss        | -0.019   |
+| total_timesteps    | 4800000  |
+| value_loss         | 0.268    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 333      |
+| ep_reward_mean     | 8.57     |
+| explained_variance | 0.762    |
+| fps                | 12       |
+| nupdates           | 7600     |
+| policy_entropy     | 1.03     |
+| policy_loss        | -0.0416  |
+| total_timesteps    | 4864000  |
+| value_loss         | 0.142    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 367      |
+| ep_reward_mean     | 10       |
+| explained_variance | 0.667    |
+| fps                | 12       |
+| nupdates           | 7700     |
+| policy_entropy     | 1.07     |
+| policy_loss        | 0.0101   |
+| total_timesteps    | 4928000  |
+| value_loss         | 0.204    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 372      |
+| ep_reward_mean     | 10.3     |
+| explained_variance | 0.694    |
+| fps                | 12       |
+| nupdates           | 7800     |
+| policy_entropy     | 1.12     |
+| policy_loss        | -0.037   |
+| total_timesteps    | 4992000  |
+| value_loss         | 0.15     |
+---------------------------------
+Eval num_timesteps=4999680, episode_reward=-4.44 +/- 0.89
+Episode length: 466.32 +/- 146.25
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 384      |
+| ep_reward_mean     | 10.7     |
+| explained_variance | 0.706    |
+| fps                | 12       |
+| nupdates           | 7900     |
+| policy_entropy     | 1.11     |
+| policy_loss        | 0.00234  |
+| total_timesteps    | 5056000  |
+| value_loss         | 0.149    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 389      |
+| ep_reward_mean     | 10.9     |
+| explained_variance | 0.74     |
+| fps                | 12       |
+| nupdates           | 8000     |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.066   |
+| total_timesteps    | 5120000  |
+| value_loss         | 0.195    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 399      |
+| ep_reward_mean     | 11.3     |
+| explained_variance | 0.803    |
+| fps                | 12       |
+| nupdates           | 8100     |
+| policy_entropy     | 0.989    |
+| policy_loss        | -0.0757  |
+| total_timesteps    | 5184000  |
+| value_loss         | 0.243    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 409      |
+| ep_reward_mean     | 11.8     |
+| explained_variance | 0.842    |
+| fps                | 12       |
+| nupdates           | 8200     |
+| policy_entropy     | 1        |
+| policy_loss        | -0.0319  |
+| total_timesteps    | 5248000  |
+| value_loss         | 0.123    |
+---------------------------------
+Eval num_timesteps=5249664, episode_reward=-4.35 +/- 0.95
+Episode length: 505.75 +/- 155.17
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 388      |
+| ep_reward_mean     | 11       |
+| explained_variance | 0.761    |
+| fps                | 12       |
+| nupdates           | 8300     |
+| policy_entropy     | 1.02     |
+| policy_loss        | 0.0884   |
+| total_timesteps    | 5312000  |
+| value_loss         | 0.16     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 446      |
+| ep_reward_mean     | 13.2     |
+| explained_variance | 0.604    |
+| fps                | 12       |
+| nupdates           | 8400     |
+| policy_entropy     | 1.08     |
+| policy_loss        | -0.0749  |
+| total_timesteps    | 5376000  |
+| value_loss         | 0.184    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 420      |
+| ep_reward_mean     | 12.4     |
+| explained_variance | 0.714    |
+| fps                | 12       |
+| nupdates           | 8500     |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.112   |
+| total_timesteps    | 5440000  |
+| value_loss         | 0.276    |
+---------------------------------
+Eval num_timesteps=5499648, episode_reward=-4.32 +/- 1.04
+Episode length: 511.86 +/- 155.02
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 397      |
+| ep_reward_mean     | 11.2     |
+| explained_variance | 0.685    |
+| fps                | 12       |
+| nupdates           | 8600     |
+| policy_entropy     | 1.06     |
+| policy_loss        | 0.0407   |
+| total_timesteps    | 5504000  |
+| value_loss         | 0.249    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 435      |
+| ep_reward_mean     | 12.9     |
+| explained_variance | 0.701    |
+| fps                | 12       |
+| nupdates           | 8700     |
+| policy_entropy     | 1.12     |
+| policy_loss        | -0.0295  |
+| total_timesteps    | 5568000  |
+| value_loss         | 0.198    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 444      |
+| ep_reward_mean     | 13.3     |
+| explained_variance | 0.788    |
+| fps                | 12       |
+| nupdates           | 8800     |
+| policy_entropy     | 1.1      |
+| policy_loss        | -0.00542 |
+| total_timesteps    | 5632000  |
+| value_loss         | 0.132    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 486      |
+| ep_reward_mean     | 15       |
+| explained_variance | 0.479    |
+| fps                | 12       |
+| nupdates           | 8900     |
+| policy_entropy     | 1.13     |
+| policy_loss        | -0.0841  |
+| total_timesteps    | 5696000  |
+| value_loss         | 0.221    |
+---------------------------------
+Eval num_timesteps=5749632, episode_reward=-3.82 +/- 1.34
+Episode length: 598.51 +/- 151.76
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 442      |
+| ep_reward_mean     | 13.2     |
+| explained_variance | 0.835    |
+| fps                | 11       |
+| nupdates           | 9000     |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0896  |
+| total_timesteps    | 5760000  |
+| value_loss         | 0.146    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 499      |
+| ep_reward_mean     | 15.5     |
+| explained_variance | 0.694    |
+| fps                | 11       |
+| nupdates           | 9100     |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.158   |
+| total_timesteps    | 5824000  |
+| value_loss         | 0.28     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 526      |
+| ep_reward_mean     | 16.6     |
+| explained_variance | 0.704    |
+| fps                | 12       |
+| nupdates           | 9200     |
+| policy_entropy     | 1.02     |
+| policy_loss        | 0.107    |
+| total_timesteps    | 5888000  |
+| value_loss         | 0.12     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 522      |
+| ep_reward_mean     | 16.4     |
+| explained_variance | 0.571    |
+| fps                | 12       |
+| nupdates           | 9300     |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.00533 |
+| total_timesteps    | 5952000  |
+| value_loss         | 0.198    |
+---------------------------------
+Eval num_timesteps=5999616, episode_reward=-3.88 +/- 1.40
+Episode length: 590.97 +/- 153.14
+---------------------------------
+| ep_len_mean        | 495      |
+| ep_reward_mean     | 15.2     |
+| explained_variance | 0.637    |
+| fps                | 11       |
+| nupdates           | 9400     |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.129   |
+| total_timesteps    | 6016000  |
+| value_loss         | 0.207    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 486      |
+| ep_reward_mean     | 15       |
+| explained_variance | 0.768    |
+| fps                | 11       |
+| nupdates           | 9500     |
+| policy_entropy     | 1.13     |
+| policy_loss        | 0.0861   |
+| total_timesteps    | 6080000  |
+| value_loss         | 0.127    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 499      |
+| ep_reward_mean     | 15.5     |
+| explained_variance | 0.695    |
+| fps                | 11       |
+| nupdates           | 9600     |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.00576 |
+| total_timesteps    | 6144000  |
+| value_loss         | 0.125    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 502      |
+| ep_reward_mean     | 15.6     |
+| explained_variance | 0.695    |
+| fps                | 11       |
+| nupdates           | 9700     |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.0874  |
+| total_timesteps    | 6208000  |
+| value_loss         | 0.162    |
+---------------------------------
+Eval num_timesteps=6249600, episode_reward=-4.09 +/- 1.16
+Episode length: 577.99 +/- 150.13
+---------------------------------
+| ep_len_mean        | 511      |
+| ep_reward_mean     | 16.2     |
+| explained_variance | 0.78     |
+| fps                | 11       |
+| nupdates           | 9800     |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.0971  |
+| total_timesteps    | 6272000  |
+| value_loss         | 0.123    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 530      |
+| ep_reward_mean     | 17       |
+| explained_variance | 0.762    |
+| fps                | 11       |
+| nupdates           | 9900     |
+| policy_entropy     | 1.19     |
+| policy_loss        | -0.0438  |
+| total_timesteps    | 6336000  |
+| value_loss         | 0.103    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 505      |
+| ep_reward_mean     | 15.8     |
+| explained_variance | 0.681    |
+| fps                | 11       |
+| nupdates           | 10000    |
+| policy_entropy     | 1.05     |
+| policy_loss        | 0.0828   |
+| total_timesteps    | 6400000  |
+| value_loss         | 0.157    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 545      |
+| ep_reward_mean     | 17.4     |
+| explained_variance | 0.696    |
+| fps                | 11       |
+| nupdates           | 10100    |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.0206  |
+| total_timesteps    | 6464000  |
+| value_loss         | 0.163    |
+---------------------------------
+Eval num_timesteps=6499584, episode_reward=-3.47 +/- 1.52
+Episode length: 647.54 +/- 131.32
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 550      |
+| ep_reward_mean     | 17.9     |
+| explained_variance | 0.69     |
+| fps                | 11       |
+| nupdates           | 10200    |
+| policy_entropy     | 1        |
+| policy_loss        | -0.0529  |
+| total_timesteps    | 6528000  |
+| value_loss         | 0.376    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 547      |
+| ep_reward_mean     | 17.7     |
+| explained_variance | 0.419    |
+| fps                | 11       |
+| nupdates           | 10300    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.0836  |
+| total_timesteps    | 6592000  |
+| value_loss         | 0.263    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 590      |
+| ep_reward_mean     | 19.7     |
+| explained_variance | 0.652    |
+| fps                | 11       |
+| nupdates           | 10400    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.0165  |
+| total_timesteps    | 6656000  |
+| value_loss         | 0.101    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 576      |
+| ep_reward_mean     | 19.2     |
+| explained_variance | 0.772    |
+| fps                | 11       |
+| nupdates           | 10500    |
+| policy_entropy     | 0.985    |
+| policy_loss        | 0.0306   |
+| total_timesteps    | 6720000  |
+| value_loss         | 0.114    |
+---------------------------------
+Eval num_timesteps=6749568, episode_reward=-3.65 +/- 1.42
+Episode length: 628.96 +/- 137.88
+---------------------------------
+| ep_len_mean        | 564      |
+| ep_reward_mean     | 18.3     |
+| explained_variance | 0.739    |
+| fps                | 11       |
+| nupdates           | 10600    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.0196  |
+| total_timesteps    | 6784000  |
+| value_loss         | 0.133    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 562      |
+| ep_reward_mean     | 18.6     |
+| explained_variance | 0.772    |
+| fps                | 11       |
+| nupdates           | 10700    |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.0444  |
+| total_timesteps    | 6848000  |
+| value_loss         | 0.0864   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 587      |
+| ep_reward_mean     | 19.5     |
+| explained_variance | 0.695    |
+| fps                | 11       |
+| nupdates           | 10800    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0135  |
+| total_timesteps    | 6912000  |
+| value_loss         | 0.158    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 600      |
+| ep_reward_mean     | 20.2     |
+| explained_variance | 0.723    |
+| fps                | 11       |
+| nupdates           | 10900    |
+| policy_entropy     | 0.95     |
+| policy_loss        | -0.079   |
+| total_timesteps    | 6976000  |
+| value_loss         | 0.168    |
+---------------------------------
+Eval num_timesteps=6999552, episode_reward=-3.33 +/- 1.57
+Episode length: 658.13 +/- 127.32
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 590      |
+| ep_reward_mean     | 19.7     |
+| explained_variance | 0.803    |
+| fps                | 11       |
+| nupdates           | 11000    |
+| policy_entropy     | 0.962    |
+| policy_loss        | 0.0115   |
+| total_timesteps    | 7040000  |
+| value_loss         | 0.0758   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 606      |
+| ep_reward_mean     | 20.4     |
+| explained_variance | 0.391    |
+| fps                | 11       |
+| nupdates           | 11100    |
+| policy_entropy     | 1.01     |
+| policy_loss        | 0.15     |
+| total_timesteps    | 7104000  |
+| value_loss         | 0.22     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 616      |
+| ep_reward_mean     | 21       |
+| explained_variance | 0.398    |
+| fps                | 11       |
+| nupdates           | 11200    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.0352  |
+| total_timesteps    | 7168000  |
+| value_loss         | 0.226    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 581      |
+| ep_reward_mean     | 19       |
+| explained_variance | 0.731    |
+| fps                | 11       |
+| nupdates           | 11300    |
+| policy_entropy     | 1.05     |
+| policy_loss        | 0.0576   |
+| total_timesteps    | 7232000  |
+| value_loss         | 0.103    |
+---------------------------------
+Eval num_timesteps=7249536, episode_reward=-3.59 +/- 1.42
+Episode length: 637.14 +/- 138.77
+---------------------------------
+| ep_len_mean        | 589      |
+| ep_reward_mean     | 19.7     |
+| explained_variance | 0.65     |
+| fps                | 11       |
+| nupdates           | 11400    |
+| policy_entropy     | 1.11     |
+| policy_loss        | -0.0747  |
+| total_timesteps    | 7296000  |
+| value_loss         | 0.193    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 597      |
+| ep_reward_mean     | 19.9     |
+| explained_variance | 0.581    |
+| fps                | 11       |
+| nupdates           | 11500    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.0259  |
+| total_timesteps    | 7360000  |
+| value_loss         | 0.0999   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 648      |
+| ep_reward_mean     | 22.5     |
+| explained_variance | 0.806    |
+| fps                | 11       |
+| nupdates           | 11600    |
+| policy_entropy     | 0.973    |
+| policy_loss        | 0.012    |
+| total_timesteps    | 7424000  |
+| value_loss         | 0.0701   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 656      |
+| ep_reward_mean     | 22.8     |
+| explained_variance | 0.604    |
+| fps                | 11       |
+| nupdates           | 11700    |
+| policy_entropy     | 1.06     |
+| policy_loss        | 0.00311  |
+| total_timesteps    | 7488000  |
+| value_loss         | 0.125    |
+---------------------------------
+Eval num_timesteps=7499520, episode_reward=-2.85 +/- 1.61
+Episode length: 696.25 +/- 105.44
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 608      |
+| ep_reward_mean     | 20.7     |
+| explained_variance | 0.412    |
+| fps                | 11       |
+| nupdates           | 11800    |
+| policy_entropy     | 0.886    |
+| policy_loss        | 0.0407   |
+| total_timesteps    | 7552000  |
+| value_loss         | 0.237    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 617      |
+| ep_reward_mean     | 20.9     |
+| explained_variance | 0.68     |
+| fps                | 11       |
+| nupdates           | 11900    |
+| policy_entropy     | 0.996    |
+| policy_loss        | -0.138   |
+| total_timesteps    | 7616000  |
+| value_loss         | 0.384    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 633      |
+| ep_reward_mean     | 21.4     |
+| explained_variance | 0.772    |
+| fps                | 11       |
+| nupdates           | 12000    |
+| policy_entropy     | 0.814    |
+| policy_loss        | 0.0155   |
+| total_timesteps    | 7680000  |
+| value_loss         | 0.162    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 659      |
+| ep_reward_mean     | 22.8     |
+| explained_variance | 0.713    |
+| fps                | 11       |
+| nupdates           | 12100    |
+| policy_entropy     | 1.05     |
+| policy_loss        | 0.00568  |
+| total_timesteps    | 7744000  |
+| value_loss         | 0.0863   |
+---------------------------------
+Eval num_timesteps=7749504, episode_reward=-2.96 +/- 1.59
+Episode length: 695.44 +/- 99.50
+---------------------------------
+| ep_len_mean        | 642      |
+| ep_reward_mean     | 21.9     |
+| explained_variance | 0.46     |
+| fps                | 11       |
+| nupdates           | 12200    |
+| policy_entropy     | 0.991    |
+| policy_loss        | -0.093   |
+| total_timesteps    | 7808000  |
+| value_loss         | 0.458    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 620      |
+| ep_reward_mean     | 21.1     |
+| explained_variance | 0.831    |
+| fps                | 11       |
+| nupdates           | 12300    |
+| policy_entropy     | 1.04     |
+| policy_loss        | 0.0316   |
+| total_timesteps    | 7872000  |
+| value_loss         | 0.0621   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 619      |
+| ep_reward_mean     | 21       |
+| explained_variance | 0.668    |
+| fps                | 11       |
+| nupdates           | 12400    |
+| policy_entropy     | 0.945    |
+| policy_loss        | 0.0539   |
+| total_timesteps    | 7936000  |
+| value_loss         | 0.0858   |
+---------------------------------
+Eval num_timesteps=7999488, episode_reward=-2.85 +/- 1.66
+Episode length: 695.97 +/- 99.19
+---------------------------------
+| ep_len_mean        | 646      |
+| ep_reward_mean     | 22.4     |
+| explained_variance | 0.704    |
+| fps                | 11       |
+| nupdates           | 12500    |
+| policy_entropy     | 1.1      |
+| policy_loss        | -0.0171  |
+| total_timesteps    | 8000000  |
+| value_loss         | 0.241    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 640      |
+| ep_reward_mean     | 22.1     |
+| explained_variance | 0.738    |
+| fps                | 11       |
+| nupdates           | 12600    |
+| policy_entropy     | 1.01     |
+| policy_loss        | 0.00416  |
+| total_timesteps    | 8064000  |
+| value_loss         | 0.0591   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 633      |
+| ep_reward_mean     | 21.8     |
+| explained_variance | 0.751    |
+| fps                | 11       |
+| nupdates           | 12700    |
+| policy_entropy     | 0.973    |
+| policy_loss        | -0.0542  |
+| total_timesteps    | 8128000  |
+| value_loss         | 0.154    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 635      |
+| ep_reward_mean     | 21.8     |
+| explained_variance | 0.776    |
+| fps                | 11       |
+| nupdates           | 12800    |
+| policy_entropy     | 0.971    |
+| policy_loss        | 0.0305   |
+| total_timesteps    | 8192000  |
+| value_loss         | 0.151    |
+---------------------------------
+Eval num_timesteps=8249472, episode_reward=-2.53 +/- 1.67
+Episode length: 706.99 +/- 90.40
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 656      |
+| ep_reward_mean     | 22.9     |
+| explained_variance | 0.835    |
+| fps                | 11       |
+| nupdates           | 12900    |
+| policy_entropy     | 0.998    |
+| policy_loss        | 0.0433   |
+| total_timesteps    | 8256000  |
+| value_loss         | 0.0649   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 666      |
+| ep_reward_mean     | 23.4     |
+| explained_variance | 0.76     |
+| fps                | 11       |
+| nupdates           | 13000    |
+| policy_entropy     | 0.942    |
+| policy_loss        | -0.0275  |
+| total_timesteps    | 8320000  |
+| value_loss         | 0.167    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 634      |
+| ep_reward_mean     | 21.9     |
+| explained_variance | 0.599    |
+| fps                | 11       |
+| nupdates           | 13100    |
+| policy_entropy     | 1        |
+| policy_loss        | 0.141    |
+| total_timesteps    | 8384000  |
+| value_loss         | 0.092    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 628      |
+| ep_reward_mean     | 21.7     |
+| explained_variance | 0.676    |
+| fps                | 11       |
+| nupdates           | 13200    |
+| policy_entropy     | 1.08     |
+| policy_loss        | -0.089   |
+| total_timesteps    | 8448000  |
+| value_loss         | 0.201    |
+---------------------------------
+Eval num_timesteps=8499456, episode_reward=-2.65 +/- 1.64
+Episode length: 702.28 +/- 98.92
+---------------------------------
+| ep_len_mean        | 651      |
+| ep_reward_mean     | 22.6     |
+| explained_variance | 0.643    |
+| fps                | 11       |
+| nupdates           | 13300    |
+| policy_entropy     | 0.953    |
+| policy_loss        | 0.0198   |
+| total_timesteps    | 8512000  |
+| value_loss         | 0.0844   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 633      |
+| ep_reward_mean     | 21.8     |
+| explained_variance | 0.685    |
+| fps                | 11       |
+| nupdates           | 13400    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.1     |
+| total_timesteps    | 8576000  |
+| value_loss         | 0.396    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 606      |
+| ep_reward_mean     | 20.5     |
+| explained_variance | 0.749    |
+| fps                | 11       |
+| nupdates           | 13500    |
+| policy_entropy     | 1.09     |
+| policy_loss        | 0.00531  |
+| total_timesteps    | 8640000  |
+| value_loss         | 0.0466   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 643      |
+| ep_reward_mean     | 22.1     |
+| explained_variance | 0.427    |
+| fps                | 11       |
+| nupdates           | 13600    |
+| policy_entropy     | 1.05     |
+| policy_loss        | 0.0718   |
+| total_timesteps    | 8704000  |
+| value_loss         | 0.0515   |
+---------------------------------
+Eval num_timesteps=8749440, episode_reward=-2.76 +/- 1.63
+Episode length: 704.69 +/- 91.93
+---------------------------------
+| ep_len_mean        | 632      |
+| ep_reward_mean     | 21.9     |
+| explained_variance | 0.618    |
+| fps                | 11       |
+| nupdates           | 13700    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0279  |
+| total_timesteps    | 8768000  |
+| value_loss         | 0.0704   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 638      |
+| ep_reward_mean     | 21.9     |
+| explained_variance | 0.6      |
+| fps                | 11       |
+| nupdates           | 13800    |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.00493 |
+| total_timesteps    | 8832000  |
+| value_loss         | 0.247    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 646      |
+| ep_reward_mean     | 22.3     |
+| explained_variance | 0.777    |
+| fps                | 11       |
+| nupdates           | 13900    |
+| policy_entropy     | 0.923    |
+| policy_loss        | 0.0637   |
+| total_timesteps    | 8896000  |
+| value_loss         | 0.0428   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 652      |
+| ep_reward_mean     | 22.5     |
+| explained_variance | 0.693    |
+| fps                | 11       |
+| nupdates           | 14000    |
+| policy_entropy     | 1.07     |
+| policy_loss        | 0.0195   |
+| total_timesteps    | 8960000  |
+| value_loss         | 0.0752   |
+---------------------------------
+Eval num_timesteps=8999424, episode_reward=-2.89 +/- 1.70
+Episode length: 683.64 +/- 113.99
+---------------------------------
+| ep_len_mean        | 672      |
+| ep_reward_mean     | 23.6     |
+| explained_variance | 0.65     |
+| fps                | 11       |
+| nupdates           | 14100    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.0619  |
+| total_timesteps    | 9024000  |
+| value_loss         | 0.187    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 651      |
+| ep_reward_mean     | 22.6     |
+| explained_variance | 0.651    |
+| fps                | 11       |
+| nupdates           | 14200    |
+| policy_entropy     | 0.914    |
+| policy_loss        | 0.0649   |
+| total_timesteps    | 9088000  |
+| value_loss         | 0.209    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 646      |
+| ep_reward_mean     | 22.3     |
+| explained_variance | 0.619    |
+| fps                | 11       |
+| nupdates           | 14300    |
+| policy_entropy     | 0.938    |
+| policy_loss        | -0.0855  |
+| total_timesteps    | 9152000  |
+| value_loss         | 0.139    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 657      |
+| ep_reward_mean     | 22.9     |
+| explained_variance | 0.625    |
+| fps                | 11       |
+| nupdates           | 14400    |
+| policy_entropy     | 0.941    |
+| policy_loss        | -0.0921  |
+| total_timesteps    | 9216000  |
+| value_loss         | 0.262    |
+---------------------------------
+Eval num_timesteps=9249408, episode_reward=-2.74 +/- 1.69
+Episode length: 700.61 +/- 95.51
+---------------------------------
+| ep_len_mean        | 618      |
+| ep_reward_mean     | 21.1     |
+| explained_variance | 0.74     |
+| fps                | 11       |
+| nupdates           | 14500    |
+| policy_entropy     | 0.843    |
+| policy_loss        | -0.0494  |
+| total_timesteps    | 9280000  |
+| value_loss         | 0.127    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 656      |
+| ep_reward_mean     | 22.7     |
+| explained_variance | 0.718    |
+| fps                | 11       |
+| nupdates           | 14600    |
+| policy_entropy     | 0.906    |
+| policy_loss        | 0.0553   |
+| total_timesteps    | 9344000  |
+| value_loss         | 0.0929   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 662      |
+| ep_reward_mean     | 23.4     |
+| explained_variance | 0.741    |
+| fps                | 11       |
+| nupdates           | 14700    |
+| policy_entropy     | 1.06     |
+| policy_loss        | 0.0367   |
+| total_timesteps    | 9408000  |
+| value_loss         | 0.0502   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 669      |
+| ep_reward_mean     | 23.4     |
+| explained_variance | 0.381    |
+| fps                | 11       |
+| nupdates           | 14800    |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.106   |
+| total_timesteps    | 9472000  |
+| value_loss         | 0.277    |
+---------------------------------
+Eval num_timesteps=9499392, episode_reward=-2.62 +/- 1.64
+Episode length: 706.55 +/- 93.81
+---------------------------------
+| ep_len_mean        | 662      |
+| ep_reward_mean     | 23       |
+| explained_variance | 0.676    |
+| fps                | 11       |
+| nupdates           | 14900    |
+| policy_entropy     | 1.07     |
+| policy_loss        | 0.00053  |
+| total_timesteps    | 9536000  |
+| value_loss         | 0.0655   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 677      |
+| ep_reward_mean     | 23.9     |
+| explained_variance | 0.644    |
+| fps                | 11       |
+| nupdates           | 15000    |
+| policy_entropy     | 1.14     |
+| policy_loss        | 0.0273   |
+| total_timesteps    | 9600000  |
+| value_loss         | 0.0826   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 632      |
+| ep_reward_mean     | 21.8     |
+| explained_variance | 0.514    |
+| fps                | 11       |
+| nupdates           | 15100    |
+| policy_entropy     | 1.08     |
+| policy_loss        | -0.0112  |
+| total_timesteps    | 9664000  |
+| value_loss         | 0.274    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 652      |
+| ep_reward_mean     | 22.6     |
+| explained_variance | 0.553    |
+| fps                | 11       |
+| nupdates           | 15200    |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.0572  |
+| total_timesteps    | 9728000  |
+| value_loss         | 0.156    |
+---------------------------------
+Eval num_timesteps=9749376, episode_reward=-2.45 +/- 1.64
+Episode length: 717.72 +/- 79.67
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 638      |
+| ep_reward_mean     | 22       |
+| explained_variance | 0.642    |
+| fps                | 11       |
+| nupdates           | 15300    |
+| policy_entropy     | 1.02     |
+| policy_loss        | 0.0436   |
+| total_timesteps    | 9792000  |
+| value_loss         | 0.0801   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 656      |
+| ep_reward_mean     | 22.8     |
+| explained_variance | 0.59     |
+| fps                | 11       |
+| nupdates           | 15400    |
+| policy_entropy     | 0.972    |
+| policy_loss        | 0.0364   |
+| total_timesteps    | 9856000  |
+| value_loss         | 0.096    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 682      |
+| ep_reward_mean     | 24.1     |
+| explained_variance | 0.282    |
+| fps                | 11       |
+| nupdates           | 15500    |
+| policy_entropy     | 0.982    |
+| policy_loss        | -0.0278  |
+| total_timesteps    | 9920000  |
+| value_loss         | 0.312    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 644      |
+| ep_reward_mean     | 22.4     |
+| explained_variance | 0.834    |
+| fps                | 11       |
+| nupdates           | 15600    |
+| policy_entropy     | 1.04     |
+| policy_loss        | 0.0298   |
+| total_timesteps    | 9984000  |
+| value_loss         | 0.0716   |
+---------------------------------
+Eval num_timesteps=9999360, episode_reward=-2.69 +/- 1.68
+Episode length: 700.96 +/- 96.59
+---------------------------------
+| ep_len_mean        | 683      |
+| ep_reward_mean     | 24.1     |
+| explained_variance | 0.638    |
+| fps                | 11       |
+| nupdates           | 15700    |
+| policy_entropy     | 1.04     |
+| policy_loss        | 0.0417   |
+| total_timesteps    | 10048000 |
+| value_loss         | 0.0507   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 641      |
+| ep_reward_mean     | 22.2     |
+| explained_variance | 0.383    |
+| fps                | 11       |
+| nupdates           | 15800    |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.0974  |
+| total_timesteps    | 10112000 |
+| value_loss         | 0.368    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 678      |
+| ep_reward_mean     | 23.8     |
+| explained_variance | 0.604    |
+| fps                | 11       |
+| nupdates           | 15900    |
+| policy_entropy     | 0.968    |
+| policy_loss        | -0.0185  |
+| total_timesteps    | 10176000 |
+| value_loss         | 0.195    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 663      |
+| ep_reward_mean     | 23.5     |
+| explained_variance | 0.621    |
+| fps                | 11       |
+| nupdates           | 16000    |
+| policy_entropy     | 1.01     |
+| policy_loss        | 0.0159   |
+| total_timesteps    | 10240000 |
+| value_loss         | 0.0873   |
+---------------------------------
+Eval num_timesteps=10249344, episode_reward=-2.45 +/- 1.70
+Episode length: 711.22 +/- 86.13
+---------------------------------
+| ep_len_mean        | 695      |
+| ep_reward_mean     | 24.5     |
+| explained_variance | 0.323    |
+| fps                | 11       |
+| nupdates           | 16100    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.203   |
+| total_timesteps    | 10304000 |
+| value_loss         | 0.539    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 680      |
+| ep_reward_mean     | 24.1     |
+| explained_variance | 0.586    |
+| fps                | 11       |
+| nupdates           | 16200    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.089   |
+| total_timesteps    | 10368000 |
+| value_loss         | 0.231    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 668      |
+| ep_reward_mean     | 23.5     |
+| explained_variance | 0.582    |
+| fps                | 11       |
+| nupdates           | 16300    |
+| policy_entropy     | 1.06     |
+| policy_loss        | -0.0904  |
+| total_timesteps    | 10432000 |
+| value_loss         | 0.329    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 684      |
+| ep_reward_mean     | 24.5     |
+| explained_variance | 0.619    |
+| fps                | 11       |
+| nupdates           | 16400    |
+| policy_entropy     | 0.968    |
+| policy_loss        | 0.0209   |
+| total_timesteps    | 10496000 |
+| value_loss         | 0.0646   |
+---------------------------------
+Eval num_timesteps=10499328, episode_reward=-2.22 +/- 1.62
+Episode length: 721.73 +/- 73.63
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 679      |
+| ep_reward_mean     | 24.1     |
+| explained_variance | 0.643    |
+| fps                | 11       |
+| nupdates           | 16500    |
+| policy_entropy     | 1.11     |
+| policy_loss        | 0.033    |
+| total_timesteps    | 10560000 |
+| value_loss         | 0.0634   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 666      |
+| ep_reward_mean     | 23.4     |
+| explained_variance | 0.537    |
+| fps                | 11       |
+| nupdates           | 16600    |
+| policy_entropy     | 0.978    |
+| policy_loss        | -0.0634  |
+| total_timesteps    | 10624000 |
+| value_loss         | 0.135    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 697      |
+| ep_reward_mean     | 24.9     |
+| explained_variance | 0.621    |
+| fps                | 11       |
+| nupdates           | 16700    |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.0151  |
+| total_timesteps    | 10688000 |
+| value_loss         | 0.0887   |
+---------------------------------
+Eval num_timesteps=10749312, episode_reward=-2.30 +/- 1.63
+Episode length: 720.69 +/- 78.15
+---------------------------------
+| ep_len_mean        | 679      |
+| ep_reward_mean     | 24.2     |
+| explained_variance | 0.609    |
+| fps                | 11       |
+| nupdates           | 16800    |
+| policy_entropy     | 0.986    |
+| policy_loss        | -0.056   |
+| total_timesteps    | 10752000 |
+| value_loss         | 0.207    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 697      |
+| ep_reward_mean     | 24.8     |
+| explained_variance | 0.334    |
+| fps                | 11       |
+| nupdates           | 16900    |
+| policy_entropy     | 0.979    |
+| policy_loss        | -0.0013  |
+| total_timesteps    | 10816000 |
+| value_loss         | 0.218    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 666      |
+| ep_reward_mean     | 23.4     |
+| explained_variance | 0.49     |
+| fps                | 11       |
+| nupdates           | 17000    |
+| policy_entropy     | 1.03     |
+| policy_loss        | -0.0375  |
+| total_timesteps    | 10880000 |
+| value_loss         | 0.244    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 678      |
+| ep_reward_mean     | 24.2     |
+| explained_variance | 0.603    |
+| fps                | 11       |
+| nupdates           | 17100    |
+| policy_entropy     | 1.19     |
+| policy_loss        | -0.00447 |
+| total_timesteps    | 10944000 |
+| value_loss         | 0.0752   |
+---------------------------------
+Eval num_timesteps=10999296, episode_reward=-2.38 +/- 1.61
+Episode length: 720.70 +/- 72.92
+---------------------------------
+| ep_len_mean        | 690      |
+| ep_reward_mean     | 24.5     |
+| explained_variance | 0.67     |
+| fps                | 11       |
+| nupdates           | 17200    |
+| policy_entropy     | 1.02     |
+| policy_loss        | 0.025    |
+| total_timesteps    | 11008000 |
+| value_loss         | 0.113    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 697      |
+| ep_reward_mean     | 25       |
+| explained_variance | 0.636    |
+| fps                | 11       |
+| nupdates           | 17300    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.13    |
+| total_timesteps    | 11072000 |
+| value_loss         | 0.438    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 667      |
+| ep_reward_mean     | 23.3     |
+| explained_variance | 0.698    |
+| fps                | 11       |
+| nupdates           | 17400    |
+| policy_entropy     | 1.06     |
+| policy_loss        | 0.0287   |
+| total_timesteps    | 11136000 |
+| value_loss         | 0.172    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 666      |
+| ep_reward_mean     | 23.2     |
+| explained_variance | 0.502    |
+| fps                | 11       |
+| nupdates           | 17500    |
+| policy_entropy     | 0.923    |
+| policy_loss        | -0.0277  |
+| total_timesteps    | 11200000 |
+| value_loss         | 0.123    |
+---------------------------------
+Eval num_timesteps=11249280, episode_reward=-2.31 +/- 1.66
+Episode length: 717.99 +/- 82.09
+---------------------------------
+| ep_len_mean        | 685      |
+| ep_reward_mean     | 24.3     |
+| explained_variance | 0.57     |
+| fps                | 11       |
+| nupdates           | 17600    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.0783  |
+| total_timesteps    | 11264000 |
+| value_loss         | 0.314    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 674      |
+| ep_reward_mean     | 24       |
+| explained_variance | 0.71     |
+| fps                | 11       |
+| nupdates           | 17700    |
+| policy_entropy     | 1.12     |
+| policy_loss        | 0.0208   |
+| total_timesteps    | 11328000 |
+| value_loss         | 0.0875   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 645      |
+| ep_reward_mean     | 22.5     |
+| explained_variance | 0.661    |
+| fps                | 11       |
+| nupdates           | 17800    |
+| policy_entropy     | 1.05     |
+| policy_loss        | 0.0699   |
+| total_timesteps    | 11392000 |
+| value_loss         | 0.0816   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 659      |
+| ep_reward_mean     | 23       |
+| explained_variance | 0.441    |
+| fps                | 11       |
+| nupdates           | 17900    |
+| policy_entropy     | 0.984    |
+| policy_loss        | -0.0994  |
+| total_timesteps    | 11456000 |
+| value_loss         | 0.129    |
+---------------------------------
+Eval num_timesteps=11499264, episode_reward=-2.30 +/- 1.73
+Episode length: 716.36 +/- 81.05
+---------------------------------
+| ep_len_mean        | 661      |
+| ep_reward_mean     | 23.2     |
+| explained_variance | 0.724    |
+| fps                | 11       |
+| nupdates           | 18000    |
+| policy_entropy     | 0.948    |
+| policy_loss        | 0.015    |
+| total_timesteps    | 11520000 |
+| value_loss         | 0.0577   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 685      |
+| ep_reward_mean     | 24.4     |
+| explained_variance | 0.532    |
+| fps                | 11       |
+| nupdates           | 18100    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0836  |
+| total_timesteps    | 11584000 |
+| value_loss         | 0.208    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 669      |
+| ep_reward_mean     | 23.4     |
+| explained_variance | 0.62     |
+| fps                | 11       |
+| nupdates           | 18200    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.033   |
+| total_timesteps    | 11648000 |
+| value_loss         | 0.0712   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 671      |
+| ep_reward_mean     | 23.8     |
+| explained_variance | 0.611    |
+| fps                | 11       |
+| nupdates           | 18300    |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.117   |
+| total_timesteps    | 11712000 |
+| value_loss         | 0.358    |
+---------------------------------
+Eval num_timesteps=11749248, episode_reward=-2.43 +/- 1.72
+Episode length: 709.73 +/- 91.54
+---------------------------------
+| ep_len_mean        | 650      |
+| ep_reward_mean     | 22.5     |
+| explained_variance | 0.571    |
+| fps                | 11       |
+| nupdates           | 18400    |
+| policy_entropy     | 0.995    |
+| policy_loss        | -0.0386  |
+| total_timesteps    | 11776000 |
+| value_loss         | 0.347    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 656      |
+| ep_reward_mean     | 22.7     |
+| explained_variance | 0.85     |
+| fps                | 11       |
+| nupdates           | 18500    |
+| policy_entropy     | 0.947    |
+| policy_loss        | 0.0295   |
+| total_timesteps    | 11840000 |
+| value_loss         | 0.026    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 691      |
+| ep_reward_mean     | 24.8     |
+| explained_variance | 0.635    |
+| fps                | 11       |
+| nupdates           | 18600    |
+| policy_entropy     | 1        |
+| policy_loss        | -0.0474  |
+| total_timesteps    | 11904000 |
+| value_loss         | 0.224    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 679      |
+| ep_reward_mean     | 24.1     |
+| explained_variance | 0.464    |
+| fps                | 11       |
+| nupdates           | 18700    |
+| policy_entropy     | 0.957    |
+| policy_loss        | -0.0147  |
+| total_timesteps    | 11968000 |
+| value_loss         | 0.149    |
+---------------------------------
+Eval num_timesteps=11999232, episode_reward=-1.99 +/- 1.61
+Episode length: 729.68 +/- 61.43
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 689      |
+| ep_reward_mean     | 24.5     |
+| explained_variance | 0.766    |
+| fps                | 11       |
+| nupdates           | 18800    |
+| policy_entropy     | 0.964    |
+| policy_loss        | 0.0534   |
+| total_timesteps    | 12032000 |
+| value_loss         | 0.0769   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 697      |
+| ep_reward_mean     | 25       |
+| explained_variance | 0.616    |
+| fps                | 11       |
+| nupdates           | 18900    |
+| policy_entropy     | 0.98     |
+| policy_loss        | 0.0323   |
+| total_timesteps    | 12096000 |
+| value_loss         | 0.213    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 677      |
+| ep_reward_mean     | 23.9     |
+| explained_variance | 0.687    |
+| fps                | 11       |
+| nupdates           | 19000    |
+| policy_entropy     | 1.03     |
+| policy_loss        | -0.0292  |
+| total_timesteps    | 12160000 |
+| value_loss         | 0.202    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 664      |
+| ep_reward_mean     | 23.2     |
+| explained_variance | 0.544    |
+| fps                | 11       |
+| nupdates           | 19100    |
+| policy_entropy     | 0.924    |
+| policy_loss        | 0.0305   |
+| total_timesteps    | 12224000 |
+| value_loss         | 0.105    |
+---------------------------------
+Eval num_timesteps=12249216, episode_reward=-2.59 +/- 1.68
+Episode length: 707.40 +/- 92.50
+---------------------------------
+| ep_len_mean        | 696      |
+| ep_reward_mean     | 24.9     |
+| explained_variance | 0.657    |
+| fps                | 11       |
+| nupdates           | 19200    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.00242 |
+| total_timesteps    | 12288000 |
+| value_loss         | 0.0487   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 687      |
+| ep_reward_mean     | 24.3     |
+| explained_variance | 0.543    |
+| fps                | 11       |
+| nupdates           | 19300    |
+| policy_entropy     | 0.967    |
+| policy_loss        | -0.00888 |
+| total_timesteps    | 12352000 |
+| value_loss         | 0.0678   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 694      |
+| ep_reward_mean     | 25       |
+| explained_variance | 0.492    |
+| fps                | 11       |
+| nupdates           | 19400    |
+| policy_entropy     | 1.12     |
+| policy_loss        | -0.0513  |
+| total_timesteps    | 12416000 |
+| value_loss         | 0.236    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 708      |
+| ep_reward_mean     | 25.5     |
+| explained_variance | 0.488    |
+| fps                | 11       |
+| nupdates           | 19500    |
+| policy_entropy     | 0.924    |
+| policy_loss        | -0.103   |
+| total_timesteps    | 12480000 |
+| value_loss         | 0.382    |
+---------------------------------
+Eval num_timesteps=12499200, episode_reward=-2.30 +/- 1.67
+Episode length: 718.16 +/- 79.18
+---------------------------------
+| ep_len_mean        | 670      |
+| ep_reward_mean     | 23.5     |
+| explained_variance | 0.475    |
+| fps                | 11       |
+| nupdates           | 19600    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.122   |
+| total_timesteps    | 12544000 |
+| value_loss         | 0.21     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 667      |
+| ep_reward_mean     | 23.6     |
+| explained_variance | 0.627    |
+| fps                | 11       |
+| nupdates           | 19700    |
+| policy_entropy     | 0.865    |
+| policy_loss        | 0.0155   |
+| total_timesteps    | 12608000 |
+| value_loss         | 0.291    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 676      |
+| ep_reward_mean     | 24.1     |
+| explained_variance | 0.68     |
+| fps                | 11       |
+| nupdates           | 19800    |
+| policy_entropy     | 0.985    |
+| policy_loss        | -0.102   |
+| total_timesteps    | 12672000 |
+| value_loss         | 0.305    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 688      |
+| ep_reward_mean     | 24.6     |
+| explained_variance | 0.725    |
+| fps                | 11       |
+| nupdates           | 19900    |
+| policy_entropy     | 0.985    |
+| policy_loss        | 0.0166   |
+| total_timesteps    | 12736000 |
+| value_loss         | 0.0494   |
+---------------------------------
+Eval num_timesteps=12749184, episode_reward=-2.08 +/- 1.67
+Episode length: 722.93 +/- 77.57
+---------------------------------
+| ep_len_mean        | 686      |
+| ep_reward_mean     | 24.7     |
+| explained_variance | 0.641    |
+| fps                | 11       |
+| nupdates           | 20000    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.00253 |
+| total_timesteps    | 12800000 |
+| value_loss         | 0.093    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 703      |
+| ep_reward_mean     | 25.4     |
+| explained_variance | 0.601    |
+| fps                | 11       |
+| nupdates           | 20100    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.099   |
+| total_timesteps    | 12864000 |
+| value_loss         | 0.244    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 654      |
+| ep_reward_mean     | 22.8     |
+| explained_variance | 0.725    |
+| fps                | 11       |
+| nupdates           | 20200    |
+| policy_entropy     | 1.09     |
+| policy_loss        | 0.0487   |
+| total_timesteps    | 12928000 |
+| value_loss         | 0.0962   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 687      |
+| ep_reward_mean     | 24.4     |
+| explained_variance | 0.639    |
+| fps                | 11       |
+| nupdates           | 20300    |
+| policy_entropy     | 1.03     |
+| policy_loss        | -0.0676  |
+| total_timesteps    | 12992000 |
+| value_loss         | 0.213    |
+---------------------------------
+Eval num_timesteps=12999168, episode_reward=-2.03 +/- 1.67
+Episode length: 725.81 +/- 69.06
+---------------------------------
+| ep_len_mean        | 686      |
+| ep_reward_mean     | 24.4     |
+| explained_variance | 0.577    |
+| fps                | 11       |
+| nupdates           | 20400    |
+| policy_entropy     | 0.981    |
+| policy_loss        | -0.0238  |
+| total_timesteps    | 13056000 |
+| value_loss         | 0.215    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 685      |
+| ep_reward_mean     | 24.6     |
+| explained_variance | 0.728    |
+| fps                | 11       |
+| nupdates           | 20500    |
+| policy_entropy     | 1.07     |
+| policy_loss        | 0.00232  |
+| total_timesteps    | 13120000 |
+| value_loss         | 0.0651   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 704      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.804    |
+| fps                | 11       |
+| nupdates           | 20600    |
+| policy_entropy     | 0.938    |
+| policy_loss        | 0.0214   |
+| total_timesteps    | 13184000 |
+| value_loss         | 0.0581   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 677      |
+| ep_reward_mean     | 23.8     |
+| explained_variance | 0.552    |
+| fps                | 11       |
+| nupdates           | 20700    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.0734  |
+| total_timesteps    | 13248000 |
+| value_loss         | 0.403    |
+---------------------------------
+Eval num_timesteps=13249152, episode_reward=-2.45 +/- 1.71
+Episode length: 709.65 +/- 90.89
+---------------------------------
+| ep_len_mean        | 688      |
+| ep_reward_mean     | 24.5     |
+| explained_variance | 0.756    |
+| fps                | 11       |
+| nupdates           | 20800    |
+| policy_entropy     | 0.967    |
+| policy_loss        | 0.0564   |
+| total_timesteps    | 13312000 |
+| value_loss         | 0.0928   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 689      |
+| ep_reward_mean     | 24.3     |
+| explained_variance | 0.565    |
+| fps                | 11       |
+| nupdates           | 20900    |
+| policy_entropy     | 1.09     |
+| policy_loss        | 0.0662   |
+| total_timesteps    | 13376000 |
+| value_loss         | 0.0863   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 656      |
+| ep_reward_mean     | 23.1     |
+| explained_variance | 0.746    |
+| fps                | 11       |
+| nupdates           | 21000    |
+| policy_entropy     | 1.02     |
+| policy_loss        | 0.0102   |
+| total_timesteps    | 13440000 |
+| value_loss         | 0.0573   |
+---------------------------------
+Eval num_timesteps=13499136, episode_reward=-2.18 +/- 1.72
+Episode length: 720.91 +/- 75.67
+---------------------------------
+| ep_len_mean        | 674      |
+| ep_reward_mean     | 23.7     |
+| explained_variance | 0.744    |
+| fps                | 10       |
+| nupdates           | 21100    |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.0281  |
+| total_timesteps    | 13504000 |
+| value_loss         | 0.0535   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 689      |
+| ep_reward_mean     | 24.9     |
+| explained_variance | 0.767    |
+| fps                | 11       |
+| nupdates           | 21200    |
+| policy_entropy     | 1.03     |
+| policy_loss        | -0.0367  |
+| total_timesteps    | 13568000 |
+| value_loss         | 0.17     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 700      |
+| ep_reward_mean     | 25.4     |
+| explained_variance | 0.803    |
+| fps                | 11       |
+| nupdates           | 21300    |
+| policy_entropy     | 1.02     |
+| policy_loss        | 0.0104   |
+| total_timesteps    | 13632000 |
+| value_loss         | 0.0719   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 720      |
+| ep_reward_mean     | 26.3     |
+| explained_variance | 0.477    |
+| fps                | 11       |
+| nupdates           | 21400    |
+| policy_entropy     | 0.92     |
+| policy_loss        | 0.00779  |
+| total_timesteps    | 13696000 |
+| value_loss         | 0.186    |
+---------------------------------
+Eval num_timesteps=13749120, episode_reward=-1.74 +/- 1.68
+Episode length: 730.21 +/- 60.27
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 694      |
+| ep_reward_mean     | 24.9     |
+| explained_variance | 0.614    |
+| fps                | 10       |
+| nupdates           | 21500    |
+| policy_entropy     | 0.957    |
+| policy_loss        | -0.0818  |
+| total_timesteps    | 13760000 |
+| value_loss         | 0.182    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 706      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.416    |
+| fps                | 10       |
+| nupdates           | 21600    |
+| policy_entropy     | 0.939    |
+| policy_loss        | 0.00319  |
+| total_timesteps    | 13824000 |
+| value_loss         | 0.234    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 704      |
+| ep_reward_mean     | 25.8     |
+| explained_variance | 0.613    |
+| fps                | 11       |
+| nupdates           | 21700    |
+| policy_entropy     | 1.1      |
+| policy_loss        | -0.0497  |
+| total_timesteps    | 13888000 |
+| value_loss         | 0.0538   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 697      |
+| ep_reward_mean     | 25.4     |
+| explained_variance | 0.763    |
+| fps                | 11       |
+| nupdates           | 21800    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.0254  |
+| total_timesteps    | 13952000 |
+| value_loss         | 0.117    |
+---------------------------------
+Eval num_timesteps=13999104, episode_reward=-1.53 +/- 1.71
+Episode length: 734.41 +/- 52.05
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 693      |
+| ep_reward_mean     | 24.9     |
+| explained_variance | 0.43     |
+| fps                | 10       |
+| nupdates           | 21900    |
+| policy_entropy     | 0.983    |
+| policy_loss        | -0.15    |
+| total_timesteps    | 14016000 |
+| value_loss         | 0.299    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 714      |
+| ep_reward_mean     | 26.3     |
+| explained_variance | 0.36     |
+| fps                | 10       |
+| nupdates           | 22000    |
+| policy_entropy     | 1.13     |
+| policy_loss        | -0.152   |
+| total_timesteps    | 14080000 |
+| value_loss         | 0.378    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 714      |
+| ep_reward_mean     | 26.2     |
+| explained_variance | 0.359    |
+| fps                | 10       |
+| nupdates           | 22100    |
+| policy_entropy     | 0.974    |
+| policy_loss        | -0.175   |
+| total_timesteps    | 14144000 |
+| value_loss         | 0.399    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 690      |
+| ep_reward_mean     | 24.7     |
+| explained_variance | 0.145    |
+| fps                | 11       |
+| nupdates           | 22200    |
+| policy_entropy     | 1.13     |
+| policy_loss        | -0.146   |
+| total_timesteps    | 14208000 |
+| value_loss         | 0.527    |
+---------------------------------
+Eval num_timesteps=14249088, episode_reward=-1.95 +/- 1.66
+Episode length: 728.76 +/- 66.83
+---------------------------------
+| ep_len_mean        | 692      |
+| ep_reward_mean     | 24.9     |
+| explained_variance | 0.391    |
+| fps                | 10       |
+| nupdates           | 22300    |
+| policy_entropy     | 1.07     |
+| policy_loss        | 0.0281   |
+| total_timesteps    | 14272000 |
+| value_loss         | 0.195    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 697      |
+| ep_reward_mean     | 25       |
+| explained_variance | 0.712    |
+| fps                | 10       |
+| nupdates           | 22400    |
+| policy_entropy     | 1.03     |
+| policy_loss        | 0.0234   |
+| total_timesteps    | 14336000 |
+| value_loss         | 0.0693   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 688      |
+| ep_reward_mean     | 24.5     |
+| explained_variance | 0.77     |
+| fps                | 10       |
+| nupdates           | 22500    |
+| policy_entropy     | 1.04     |
+| policy_loss        | 0.00947  |
+| total_timesteps    | 14400000 |
+| value_loss         | 0.0373   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 695      |
+| ep_reward_mean     | 24.8     |
+| explained_variance | 0.657    |
+| fps                | 10       |
+| nupdates           | 22600    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.0682  |
+| total_timesteps    | 14464000 |
+| value_loss         | 0.159    |
+---------------------------------
+Eval num_timesteps=14499072, episode_reward=-2.27 +/- 1.67
+Episode length: 720.96 +/- 74.48
+---------------------------------
+| ep_len_mean        | 703      |
+| ep_reward_mean     | 24.8     |
+| explained_variance | 0.507    |
+| fps                | 10       |
+| nupdates           | 22700    |
+| policy_entropy     | 1.06     |
+| policy_loss        | -0.0591  |
+| total_timesteps    | 14528000 |
+| value_loss         | 0.235    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 704      |
+| ep_reward_mean     | 25.4     |
+| explained_variance | 0.788    |
+| fps                | 10       |
+| nupdates           | 22800    |
+| policy_entropy     | 0.985    |
+| policy_loss        | 0.00545  |
+| total_timesteps    | 14592000 |
+| value_loss         | 0.0317   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 696      |
+| ep_reward_mean     | 24.9     |
+| explained_variance | 0.674    |
+| fps                | 10       |
+| nupdates           | 22900    |
+| policy_entropy     | 1.17     |
+| policy_loss        | 0.0132   |
+| total_timesteps    | 14656000 |
+| value_loss         | 0.0664   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 711      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.227    |
+| fps                | 10       |
+| nupdates           | 23000    |
+| policy_entropy     | 1.07     |
+| policy_loss        | -0.0471  |
+| total_timesteps    | 14720000 |
+| value_loss         | 0.236    |
+---------------------------------
+Eval num_timesteps=14749056, episode_reward=-1.76 +/- 1.61
+Episode length: 730.47 +/- 62.28
+---------------------------------
+| ep_len_mean        | 695      |
+| ep_reward_mean     | 25       |
+| explained_variance | 0.603    |
+| fps                | 10       |
+| nupdates           | 23100    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.0204  |
+| total_timesteps    | 14784000 |
+| value_loss         | 0.0411   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 705      |
+| ep_reward_mean     | 25.4     |
+| explained_variance | 0.553    |
+| fps                | 10       |
+| nupdates           | 23200    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.0473  |
+| total_timesteps    | 14848000 |
+| value_loss         | 0.241    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 702      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.592    |
+| fps                | 10       |
+| nupdates           | 23300    |
+| policy_entropy     | 0.996    |
+| policy_loss        | 0.0275   |
+| total_timesteps    | 14912000 |
+| value_loss         | 0.0669   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 714      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.291    |
+| fps                | 10       |
+| nupdates           | 23400    |
+| policy_entropy     | 0.932    |
+| policy_loss        | -0.17    |
+| total_timesteps    | 14976000 |
+| value_loss         | 0.421    |
+---------------------------------
+Eval num_timesteps=14999040, episode_reward=-1.78 +/- 1.62
+Episode length: 733.55 +/- 55.45
+---------------------------------
+| ep_len_mean        | 717      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.814    |
+| fps                | 10       |
+| nupdates           | 23500    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.00027 |
+| total_timesteps    | 15040000 |
+| value_loss         | 0.0406   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 692      |
+| ep_reward_mean     | 24.8     |
+| explained_variance | 0.582    |
+| fps                | 10       |
+| nupdates           | 23600    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.098   |
+| total_timesteps    | 15104000 |
+| value_loss         | 0.274    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 699      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.73     |
+| fps                | 10       |
+| nupdates           | 23700    |
+| policy_entropy     | 1.07     |
+| policy_loss        | -0.056   |
+| total_timesteps    | 15168000 |
+| value_loss         | 0.0774   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 691      |
+| ep_reward_mean     | 25       |
+| explained_variance | 0.752    |
+| fps                | 10       |
+| nupdates           | 23800    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0693  |
+| total_timesteps    | 15232000 |
+| value_loss         | 0.105    |
+---------------------------------
+Eval num_timesteps=15249024, episode_reward=-2.00 +/- 1.72
+Episode length: 724.72 +/- 71.49
+---------------------------------
+| ep_len_mean        | 675      |
+| ep_reward_mean     | 23.9     |
+| explained_variance | 0.642    |
+| fps                | 10       |
+| nupdates           | 23900    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0164  |
+| total_timesteps    | 15296000 |
+| value_loss         | 0.0752   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 680      |
+| ep_reward_mean     | 24.3     |
+| explained_variance | 0.243    |
+| fps                | 10       |
+| nupdates           | 24000    |
+| policy_entropy     | 1.06     |
+| policy_loss        | -0.0796  |
+| total_timesteps    | 15360000 |
+| value_loss         | 0.265    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 699      |
+| ep_reward_mean     | 25.3     |
+| explained_variance | 0.592    |
+| fps                | 10       |
+| nupdates           | 24100    |
+| policy_entropy     | 1.13     |
+| policy_loss        | 0.0493   |
+| total_timesteps    | 15424000 |
+| value_loss         | 0.0754   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 693      |
+| ep_reward_mean     | 24.9     |
+| explained_variance | 0.525    |
+| fps                | 10       |
+| nupdates           | 24200    |
+| policy_entropy     | 1.2      |
+| policy_loss        | 0.0177   |
+| total_timesteps    | 15488000 |
+| value_loss         | 0.151    |
+---------------------------------
+Eval num_timesteps=15499008, episode_reward=-2.06 +/- 1.66
+Episode length: 725.30 +/- 66.20
+---------------------------------
+| ep_len_mean        | 697      |
+| ep_reward_mean     | 24.9     |
+| explained_variance | 0.548    |
+| fps                | 10       |
+| nupdates           | 24300    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.0274  |
+| total_timesteps    | 15552000 |
+| value_loss         | 0.211    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 719      |
+| ep_reward_mean     | 26.5     |
+| explained_variance | 0.639    |
+| fps                | 10       |
+| nupdates           | 24400    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.0724  |
+| total_timesteps    | 15616000 |
+| value_loss         | 0.292    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 702      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.622    |
+| fps                | 10       |
+| nupdates           | 24500    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.0224  |
+| total_timesteps    | 15680000 |
+| value_loss         | 0.213    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 698      |
+| ep_reward_mean     | 25.1     |
+| explained_variance | 0.785    |
+| fps                | 10       |
+| nupdates           | 24600    |
+| policy_entropy     | 1.03     |
+| policy_loss        | 0.0333   |
+| total_timesteps    | 15744000 |
+| value_loss         | 0.0483   |
+---------------------------------
+Eval num_timesteps=15748992, episode_reward=-2.25 +/- 1.61
+Episode length: 719.43 +/- 78.58
+---------------------------------
+| ep_len_mean        | 699      |
+| ep_reward_mean     | 25       |
+| explained_variance | 0.449    |
+| fps                | 10       |
+| nupdates           | 24700    |
+| policy_entropy     | 1.12     |
+| policy_loss        | -0.0374  |
+| total_timesteps    | 15808000 |
+| value_loss         | 0.172    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 687      |
+| ep_reward_mean     | 24.5     |
+| explained_variance | 0.498    |
+| fps                | 10       |
+| nupdates           | 24800    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.0387  |
+| total_timesteps    | 15872000 |
+| value_loss         | 0.126    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 682      |
+| ep_reward_mean     | 24.5     |
+| explained_variance | 0.467    |
+| fps                | 10       |
+| nupdates           | 24900    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.0532  |
+| total_timesteps    | 15936000 |
+| value_loss         | 0.11     |
+---------------------------------
+Eval num_timesteps=15998976, episode_reward=-2.06 +/- 1.69
+Episode length: 725.30 +/- 68.46
+---------------------------------
+| ep_len_mean        | 702      |
+| ep_reward_mean     | 25.3     |
+| explained_variance | 0.588    |
+| fps                | 10       |
+| nupdates           | 25000    |
+| policy_entropy     | 1.04     |
+| policy_loss        | 0.041    |
+| total_timesteps    | 16000000 |
+| value_loss         | 0.0639   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 684      |
+| ep_reward_mean     | 24.1     |
+| explained_variance | 0.581    |
+| fps                | 10       |
+| nupdates           | 25100    |
+| policy_entropy     | 1.13     |
+| policy_loss        | 0.0288   |
+| total_timesteps    | 16064000 |
+| value_loss         | 0.0678   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 687      |
+| ep_reward_mean     | 24.5     |
+| explained_variance | 0.787    |
+| fps                | 10       |
+| nupdates           | 25200    |
+| policy_entropy     | 1.11     |
+| policy_loss        | 0.0162   |
+| total_timesteps    | 16128000 |
+| value_loss         | 0.0929   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 687      |
+| ep_reward_mean     | 24.6     |
+| explained_variance | 0.644    |
+| fps                | 10       |
+| nupdates           | 25300    |
+| policy_entropy     | 0.983    |
+| policy_loss        | -0.0351  |
+| total_timesteps    | 16192000 |
+| value_loss         | 0.111    |
+---------------------------------
+Eval num_timesteps=16248960, episode_reward=-1.95 +/- 1.64
+Episode length: 728.73 +/- 62.51
+---------------------------------
+| ep_len_mean        | 699      |
+| ep_reward_mean     | 25.4     |
+| explained_variance | 0.397    |
+| fps                | 10       |
+| nupdates           | 25400    |
+| policy_entropy     | 1.19     |
+| policy_loss        | -0.0758  |
+| total_timesteps    | 16256000 |
+| value_loss         | 0.283    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 683      |
+| ep_reward_mean     | 24.3     |
+| explained_variance | 0.527    |
+| fps                | 10       |
+| nupdates           | 25500    |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.00279 |
+| total_timesteps    | 16320000 |
+| value_loss         | 0.0701   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 693      |
+| ep_reward_mean     | 24.7     |
+| explained_variance | 0.747    |
+| fps                | 10       |
+| nupdates           | 25600    |
+| policy_entropy     | 1.1      |
+| policy_loss        | 0.0178   |
+| total_timesteps    | 16384000 |
+| value_loss         | 0.0981   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 691      |
+| ep_reward_mean     | 24.7     |
+| explained_variance | 0.634    |
+| fps                | 10       |
+| nupdates           | 25700    |
+| policy_entropy     | 0.93     |
+| policy_loss        | 0.0199   |
+| total_timesteps    | 16448000 |
+| value_loss         | 0.242    |
+---------------------------------
+Eval num_timesteps=16498944, episode_reward=-2.98 +/- 1.66
+Episode length: 677.42 +/- 121.63
+---------------------------------
+| ep_len_mean        | 688      |
+| ep_reward_mean     | 24.5     |
+| explained_variance | 0.652    |
+| fps                | 10       |
+| nupdates           | 25800    |
+| policy_entropy     | 1.06     |
+| policy_loss        | 0.0616   |
+| total_timesteps    | 16512000 |
+| value_loss         | 0.118    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 680      |
+| ep_reward_mean     | 24.3     |
+| explained_variance | 0.558    |
+| fps                | 10       |
+| nupdates           | 25900    |
+| policy_entropy     | 1.07     |
+| policy_loss        | 0.0308   |
+| total_timesteps    | 16576000 |
+| value_loss         | 0.0298   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 706      |
+| ep_reward_mean     | 25.2     |
+| explained_variance | 0.387    |
+| fps                | 10       |
+| nupdates           | 26000    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.206   |
+| total_timesteps    | 16640000 |
+| value_loss         | 0.532    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 708      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.673    |
+| fps                | 10       |
+| nupdates           | 26100    |
+| policy_entropy     | 1.08     |
+| policy_loss        | -0.0944  |
+| total_timesteps    | 16704000 |
+| value_loss         | 0.138    |
+---------------------------------
+Eval num_timesteps=16748928, episode_reward=-1.91 +/- 1.69
+Episode length: 727.02 +/- 64.83
+---------------------------------
+| ep_len_mean        | 692      |
+| ep_reward_mean     | 24.7     |
+| explained_variance | 0.654    |
+| fps                | 10       |
+| nupdates           | 26200    |
+| policy_entropy     | 1.14     |
+| policy_loss        | 0.0448   |
+| total_timesteps    | 16768000 |
+| value_loss         | 0.0994   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 699      |
+| ep_reward_mean     | 25.3     |
+| explained_variance | 0.588    |
+| fps                | 10       |
+| nupdates           | 26300    |
+| policy_entropy     | 1.18     |
+| policy_loss        | -0.0593  |
+| total_timesteps    | 16832000 |
+| value_loss         | 0.198    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 704      |
+| ep_reward_mean     | 25.2     |
+| explained_variance | 0.442    |
+| fps                | 10       |
+| nupdates           | 26400    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.017   |
+| total_timesteps    | 16896000 |
+| value_loss         | 0.125    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 683      |
+| ep_reward_mean     | 24.3     |
+| explained_variance | 0.422    |
+| fps                | 10       |
+| nupdates           | 26500    |
+| policy_entropy     | 1.08     |
+| policy_loss        | -0.0198  |
+| total_timesteps    | 16960000 |
+| value_loss         | 0.122    |
+---------------------------------
+Eval num_timesteps=16998912, episode_reward=-1.56 +/- 1.55
+Episode length: 736.95 +/- 47.29
+---------------------------------
+| ep_len_mean        | 714      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.429    |
+| fps                | 10       |
+| nupdates           | 26600    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.116   |
+| total_timesteps    | 17024000 |
+| value_loss         | 0.29     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 689      |
+| ep_reward_mean     | 24.4     |
+| explained_variance | 0.22     |
+| fps                | 10       |
+| nupdates           | 26700    |
+| policy_entropy     | 0.951    |
+| policy_loss        | -0.0274  |
+| total_timesteps    | 17088000 |
+| value_loss         | 0.157    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 697      |
+| ep_reward_mean     | 25.3     |
+| explained_variance | 0.605    |
+| fps                | 10       |
+| nupdates           | 26800    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.0272  |
+| total_timesteps    | 17152000 |
+| value_loss         | 0.307    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 709      |
+| ep_reward_mean     | 25.7     |
+| explained_variance | 0.629    |
+| fps                | 10       |
+| nupdates           | 26900    |
+| policy_entropy     | 1.2      |
+| policy_loss        | -0.0393  |
+| total_timesteps    | 17216000 |
+| value_loss         | 0.122    |
+---------------------------------
+Eval num_timesteps=17248896, episode_reward=-1.83 +/- 1.57
+Episode length: 733.42 +/- 52.99
+---------------------------------
+| ep_len_mean        | 712      |
+| ep_reward_mean     | 25.7     |
+| explained_variance | 0.788    |
+| fps                | 10       |
+| nupdates           | 27000    |
+| policy_entropy     | 1.08     |
+| policy_loss        | 0.0402   |
+| total_timesteps    | 17280000 |
+| value_loss         | 0.11     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 708      |
+| ep_reward_mean     | 26       |
+| explained_variance | 0.22     |
+| fps                | 10       |
+| nupdates           | 27100    |
+| policy_entropy     | 1.08     |
+| policy_loss        | -0.104   |
+| total_timesteps    | 17344000 |
+| value_loss         | 0.314    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 692      |
+| ep_reward_mean     | 25.2     |
+| explained_variance | 0.433    |
+| fps                | 10       |
+| nupdates           | 27200    |
+| policy_entropy     | 0.921    |
+| policy_loss        | -0.0245  |
+| total_timesteps    | 17408000 |
+| value_loss         | 0.244    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 718      |
+| ep_reward_mean     | 26       |
+| explained_variance | 0.737    |
+| fps                | 10       |
+| nupdates           | 27300    |
+| policy_entropy     | 1.11     |
+| policy_loss        | 0.019    |
+| total_timesteps    | 17472000 |
+| value_loss         | 0.0355   |
+---------------------------------
+Eval num_timesteps=17498880, episode_reward=-1.62 +/- 1.61
+Episode length: 737.29 +/- 43.02
+---------------------------------
+| ep_len_mean        | 695      |
+| ep_reward_mean     | 25       |
+| explained_variance | 0.437    |
+| fps                | 10       |
+| nupdates           | 27400    |
+| policy_entropy     | 1.06     |
+| policy_loss        | -0.0895  |
+| total_timesteps    | 17536000 |
+| value_loss         | 0.191    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 694      |
+| ep_reward_mean     | 24.9     |
+| explained_variance | 0.708    |
+| fps                | 10       |
+| nupdates           | 27500    |
+| policy_entropy     | 1.12     |
+| policy_loss        | 0.0983   |
+| total_timesteps    | 17600000 |
+| value_loss         | 0.0846   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 704      |
+| ep_reward_mean     | 25.5     |
+| explained_variance | 0.289    |
+| fps                | 10       |
+| nupdates           | 27600    |
+| policy_entropy     | 1.13     |
+| policy_loss        | -0.274   |
+| total_timesteps    | 17664000 |
+| value_loss         | 0.576    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 698      |
+| ep_reward_mean     | 24.9     |
+| explained_variance | 0.514    |
+| fps                | 10       |
+| nupdates           | 27700    |
+| policy_entropy     | 1.11     |
+| policy_loss        | -0.0367  |
+| total_timesteps    | 17728000 |
+| value_loss         | 0.16     |
+---------------------------------
+Eval num_timesteps=17748864, episode_reward=-2.00 +/- 1.67
+Episode length: 729.35 +/- 62.46
+---------------------------------
+| ep_len_mean        | 708      |
+| ep_reward_mean     | 25.5     |
+| explained_variance | 0.662    |
+| fps                | 10       |
+| nupdates           | 27800    |
+| policy_entropy     | 1.13     |
+| policy_loss        | -0.0386  |
+| total_timesteps    | 17792000 |
+| value_loss         | 0.162    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 699      |
+| ep_reward_mean     | 25.3     |
+| explained_variance | 0.191    |
+| fps                | 10       |
+| nupdates           | 27900    |
+| policy_entropy     | 1.11     |
+| policy_loss        | -0.0926  |
+| total_timesteps    | 17856000 |
+| value_loss         | 0.353    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 701      |
+| ep_reward_mean     | 25.1     |
+| explained_variance | 0.52     |
+| fps                | 10       |
+| nupdates           | 28000    |
+| policy_entropy     | 1.03     |
+| policy_loss        | 0.0557   |
+| total_timesteps    | 17920000 |
+| value_loss         | 0.0639   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 710      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.666    |
+| fps                | 10       |
+| nupdates           | 28100    |
+| policy_entropy     | 1.04     |
+| policy_loss        | 0.0168   |
+| total_timesteps    | 17984000 |
+| value_loss         | 0.0804   |
+---------------------------------
+Eval num_timesteps=17998848, episode_reward=-1.80 +/- 1.62
+Episode length: 730.68 +/- 59.71
+---------------------------------
+| ep_len_mean        | 720      |
+| ep_reward_mean     | 26.3     |
+| explained_variance | 0.689    |
+| fps                | 10       |
+| nupdates           | 28200    |
+| policy_entropy     | 1        |
+| policy_loss        | 0.0107   |
+| total_timesteps    | 18048000 |
+| value_loss         | 0.0464   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 699      |
+| ep_reward_mean     | 25.2     |
+| explained_variance | 0.848    |
+| fps                | 10       |
+| nupdates           | 28300    |
+| policy_entropy     | 1.1      |
+| policy_loss        | 0.00683  |
+| total_timesteps    | 18112000 |
+| value_loss         | 0.0214   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 713      |
+| ep_reward_mean     | 25.8     |
+| explained_variance | 0.623    |
+| fps                | 10       |
+| nupdates           | 28400    |
+| policy_entropy     | 1.16     |
+| policy_loss        | 0.0127   |
+| total_timesteps    | 18176000 |
+| value_loss         | 0.102    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 689      |
+| ep_reward_mean     | 24.4     |
+| explained_variance | 0.458    |
+| fps                | 10       |
+| nupdates           | 28500    |
+| policy_entropy     | 1.2      |
+| policy_loss        | 0.0267   |
+| total_timesteps    | 18240000 |
+| value_loss         | 0.127    |
+---------------------------------
+Eval num_timesteps=18248832, episode_reward=-1.46 +/- 1.63
+Episode length: 738.00 +/- 44.49
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 709      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.638    |
+| fps                | 10       |
+| nupdates           | 28600    |
+| policy_entropy     | 1.09     |
+| policy_loss        | 0.0317   |
+| total_timesteps    | 18304000 |
+| value_loss         | 0.0665   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 716      |
+| ep_reward_mean     | 26.2     |
+| explained_variance | 0.2      |
+| fps                | 10       |
+| nupdates           | 28700    |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.111   |
+| total_timesteps    | 18368000 |
+| value_loss         | 0.142    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 708      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.87     |
+| fps                | 10       |
+| nupdates           | 28800    |
+| policy_entropy     | 1.09     |
+| policy_loss        | 0.0672   |
+| total_timesteps    | 18432000 |
+| value_loss         | 0.0218   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 708      |
+| ep_reward_mean     | 25.8     |
+| explained_variance | 0.453    |
+| fps                | 10       |
+| nupdates           | 28900    |
+| policy_entropy     | 0.892    |
+| policy_loss        | -0.12    |
+| total_timesteps    | 18496000 |
+| value_loss         | 0.362    |
+---------------------------------
+Eval num_timesteps=18498816, episode_reward=-2.12 +/- 1.60
+Episode length: 729.33 +/- 60.75
+---------------------------------
+| ep_len_mean        | 689      |
+| ep_reward_mean     | 24.8     |
+| explained_variance | 0.587    |
+| fps                | 10       |
+| nupdates           | 29000    |
+| policy_entropy     | 1.07     |
+| policy_loss        | -0.0518  |
+| total_timesteps    | 18560000 |
+| value_loss         | 0.186    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 713      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.611    |
+| fps                | 10       |
+| nupdates           | 29100    |
+| policy_entropy     | 1.06     |
+| policy_loss        | -0.0351  |
+| total_timesteps    | 18624000 |
+| value_loss         | 0.21     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 721      |
+| ep_reward_mean     | 26.6     |
+| explained_variance | 0.448    |
+| fps                | 10       |
+| nupdates           | 29200    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.048   |
+| total_timesteps    | 18688000 |
+| value_loss         | 0.156    |
+---------------------------------
+Eval num_timesteps=18748800, episode_reward=-1.84 +/- 1.76
+Episode length: 727.50 +/- 66.50
+---------------------------------
+| ep_len_mean        | 710      |
+| ep_reward_mean     | 25.7     |
+| explained_variance | 0.69     |
+| fps                | 10       |
+| nupdates           | 29300    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.0182  |
+| total_timesteps    | 18752000 |
+| value_loss         | 0.078    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 721      |
+| ep_reward_mean     | 26.6     |
+| explained_variance | -0.0705  |
+| fps                | 10       |
+| nupdates           | 29400    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0876  |
+| total_timesteps    | 18816000 |
+| value_loss         | 0.337    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 700      |
+| ep_reward_mean     | 25.2     |
+| explained_variance | 0.34     |
+| fps                | 10       |
+| nupdates           | 29500    |
+| policy_entropy     | 1.06     |
+| policy_loss        | -0.0184  |
+| total_timesteps    | 18880000 |
+| value_loss         | 0.0838   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 717      |
+| ep_reward_mean     | 26.1     |
+| explained_variance | 0.514    |
+| fps                | 10       |
+| nupdates           | 29600    |
+| policy_entropy     | 1.07     |
+| policy_loss        | -0.022   |
+| total_timesteps    | 18944000 |
+| value_loss         | 0.253    |
+---------------------------------
+Eval num_timesteps=18998784, episode_reward=-2.20 +/- 1.69
+Episode length: 720.74 +/- 77.46
+---------------------------------
+| ep_len_mean        | 705      |
+| ep_reward_mean     | 25.7     |
+| explained_variance | 0.604    |
+| fps                | 10       |
+| nupdates           | 29700    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.0194  |
+| total_timesteps    | 19008000 |
+| value_loss         | 0.0748   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 708      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.582    |
+| fps                | 10       |
+| nupdates           | 29800    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.0222  |
+| total_timesteps    | 19072000 |
+| value_loss         | 0.174    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 704      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.654    |
+| fps                | 10       |
+| nupdates           | 29900    |
+| policy_entropy     | 1.12     |
+| policy_loss        | 0.00892  |
+| total_timesteps    | 19136000 |
+| value_loss         | 0.106    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 709      |
+| ep_reward_mean     | 25.7     |
+| explained_variance | 0.787    |
+| fps                | 10       |
+| nupdates           | 30000    |
+| policy_entropy     | 1.04     |
+| policy_loss        | 0.0541   |
+| total_timesteps    | 19200000 |
+| value_loss         | 0.0297   |
+---------------------------------
+Eval num_timesteps=19248768, episode_reward=-1.70 +/- 1.67
+Episode length: 730.28 +/- 62.13
+---------------------------------
+| ep_len_mean        | 712      |
+| ep_reward_mean     | 26.1     |
+| explained_variance | 0.383    |
+| fps                | 10       |
+| nupdates           | 30100    |
+| policy_entropy     | 1.07     |
+| policy_loss        | -0.0396  |
+| total_timesteps    | 19264000 |
+| value_loss         | 0.0946   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 727      |
+| ep_reward_mean     | 26.8     |
+| explained_variance | 0.377    |
+| fps                | 10       |
+| nupdates           | 30200    |
+| policy_entropy     | 1.19     |
+| policy_loss        | -0.126   |
+| total_timesteps    | 19328000 |
+| value_loss         | 0.384    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 710      |
+| ep_reward_mean     | 26.1     |
+| explained_variance | 0.433    |
+| fps                | 10       |
+| nupdates           | 30300    |
+| policy_entropy     | 1.2      |
+| policy_loss        | -0.0208  |
+| total_timesteps    | 19392000 |
+| value_loss         | 0.129    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 686      |
+| ep_reward_mean     | 24.4     |
+| explained_variance | 0.383    |
+| fps                | 10       |
+| nupdates           | 30400    |
+| policy_entropy     | 1.18     |
+| policy_loss        | 0.0469   |
+| total_timesteps    | 19456000 |
+| value_loss         | 0.163    |
+---------------------------------
+Eval num_timesteps=19498752, episode_reward=-1.55 +/- 1.60
+Episode length: 737.35 +/- 46.91
+---------------------------------
+| ep_len_mean        | 713      |
+| ep_reward_mean     | 25.7     |
+| explained_variance | 0.637    |
+| fps                | 10       |
+| nupdates           | 30500    |
+| policy_entropy     | 1.04     |
+| policy_loss        | 0.0282   |
+| total_timesteps    | 19520000 |
+| value_loss         | 0.0351   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 710      |
+| ep_reward_mean     | 26       |
+| explained_variance | 0.264    |
+| fps                | 10       |
+| nupdates           | 30600    |
+| policy_entropy     | 1.13     |
+| policy_loss        | 0.0533   |
+| total_timesteps    | 19584000 |
+| value_loss         | 0.0713   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 707      |
+| ep_reward_mean     | 25.5     |
+| explained_variance | 0.632    |
+| fps                | 10       |
+| nupdates           | 30700    |
+| policy_entropy     | 1.16     |
+| policy_loss        | 0.101    |
+| total_timesteps    | 19648000 |
+| value_loss         | 0.0634   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 707      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.385    |
+| fps                | 10       |
+| nupdates           | 30800    |
+| policy_entropy     | 1.19     |
+| policy_loss        | -0.0181  |
+| total_timesteps    | 19712000 |
+| value_loss         | 0.0499   |
+---------------------------------
+Eval num_timesteps=19748736, episode_reward=-1.68 +/- 1.65
+Episode length: 734.12 +/- 52.26
+---------------------------------
+| ep_len_mean        | 713      |
+| ep_reward_mean     | 26.1     |
+| explained_variance | 0.447    |
+| fps                | 10       |
+| nupdates           | 30900    |
+| policy_entropy     | 1.07     |
+| policy_loss        | 0.0635   |
+| total_timesteps    | 19776000 |
+| value_loss         | 0.0313   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 724      |
+| ep_reward_mean     | 26.5     |
+| explained_variance | 0.538    |
+| fps                | 10       |
+| nupdates           | 31000    |
+| policy_entropy     | 1.15     |
+| policy_loss        | -0.113   |
+| total_timesteps    | 19840000 |
+| value_loss         | 0.127    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 706      |
+| ep_reward_mean     | 25.8     |
+| explained_variance | 0.457    |
+| fps                | 10       |
+| nupdates           | 31100    |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.0633  |
+| total_timesteps    | 19904000 |
+| value_loss         | 0.242    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 711      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.756    |
+| fps                | 10       |
+| nupdates           | 31200    |
+| policy_entropy     | 1.16     |
+| policy_loss        | -0.00544 |
+| total_timesteps    | 19968000 |
+| value_loss         | 0.0833   |
+---------------------------------
+Eval num_timesteps=19998720, episode_reward=-1.71 +/- 1.60
+Episode length: 736.30 +/- 48.23
+---------------------------------
+| ep_len_mean        | 705      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.393    |
+| fps                | 10       |
+| nupdates           | 31300    |
+| policy_entropy     | 1.23     |
+| policy_loss        | -0.148   |
+| total_timesteps    | 20032000 |
+| value_loss         | 0.21     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 706      |
+| ep_reward_mean     | 25.7     |
+| explained_variance | 0.729    |
+| fps                | 10       |
+| nupdates           | 31400    |
+| policy_entropy     | 1.17     |
+| policy_loss        | 0.00721  |
+| total_timesteps    | 20096000 |
+| value_loss         | 0.0442   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 707      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.594    |
+| fps                | 10       |
+| nupdates           | 31500    |
+| policy_entropy     | 1.16     |
+| policy_loss        | 0.0192   |
+| total_timesteps    | 20160000 |
+| value_loss         | 0.0169   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 713      |
+| ep_reward_mean     | 26.1     |
+| explained_variance | 0.0625   |
+| fps                | 10       |
+| nupdates           | 31600    |
+| policy_entropy     | 1.11     |
+| policy_loss        | -0.0748  |
+| total_timesteps    | 20224000 |
+| value_loss         | 0.328    |
+---------------------------------
+Eval num_timesteps=20248704, episode_reward=-1.90 +/- 1.60
+Episode length: 731.53 +/- 55.03
+---------------------------------
+| ep_len_mean        | 715      |
+| ep_reward_mean     | 26.3     |
+| explained_variance | 0.379    |
+| fps                | 10       |
+| nupdates           | 31700    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0973  |
+| total_timesteps    | 20288000 |
+| value_loss         | 0.37     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 731      |
+| ep_reward_mean     | 26.9     |
+| explained_variance | 0.439    |
+| fps                | 10       |
+| nupdates           | 31800    |
+| policy_entropy     | 1.04     |
+| policy_loss        | 4.05e-05 |
+| total_timesteps    | 20352000 |
+| value_loss         | 0.178    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 706      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.588    |
+| fps                | 10       |
+| nupdates           | 31900    |
+| policy_entropy     | 0.978    |
+| policy_loss        | 0.0507   |
+| total_timesteps    | 20416000 |
+| value_loss         | 0.0762   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 730      |
+| ep_reward_mean     | 27       |
+| explained_variance | 0.774    |
+| fps                | 10       |
+| nupdates           | 32000    |
+| policy_entropy     | 1.07     |
+| policy_loss        | 0.0768   |
+| total_timesteps    | 20480000 |
+| value_loss         | 0.0363   |
+---------------------------------
+Eval num_timesteps=20498688, episode_reward=-1.32 +/- 1.53
+Episode length: 740.34 +/- 37.67
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 706      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.784    |
+| fps                | 10       |
+| nupdates           | 32100    |
+| policy_entropy     | 1.15     |
+| policy_loss        | 0.0548   |
+| total_timesteps    | 20544000 |
+| value_loss         | 0.035    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 709      |
+| ep_reward_mean     | 25.8     |
+| explained_variance | 0.395    |
+| fps                | 10       |
+| nupdates           | 32200    |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.0631  |
+| total_timesteps    | 20608000 |
+| value_loss         | 0.264    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 694      |
+| ep_reward_mean     | 25       |
+| explained_variance | 0.204    |
+| fps                | 10       |
+| nupdates           | 32300    |
+| policy_entropy     | 1.06     |
+| policy_loss        | -0.0122  |
+| total_timesteps    | 20672000 |
+| value_loss         | 0.111    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 717      |
+| ep_reward_mean     | 26.2     |
+| explained_variance | 0.372    |
+| fps                | 10       |
+| nupdates           | 32400    |
+| policy_entropy     | 1.12     |
+| policy_loss        | 0.00386  |
+| total_timesteps    | 20736000 |
+| value_loss         | 0.066    |
+---------------------------------
+Eval num_timesteps=20748672, episode_reward=-1.68 +/- 1.54
+Episode length: 737.70 +/- 43.58
+---------------------------------
+| ep_len_mean        | 701      |
+| ep_reward_mean     | 25.7     |
+| explained_variance | 0.783    |
+| fps                | 10       |
+| nupdates           | 32500    |
+| policy_entropy     | 1.16     |
+| policy_loss        | 0.0734   |
+| total_timesteps    | 20800000 |
+| value_loss         | 0.0316   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 715      |
+| ep_reward_mean     | 26.1     |
+| explained_variance | 0.288    |
+| fps                | 10       |
+| nupdates           | 32600    |
+| policy_entropy     | 1.02     |
+| policy_loss        | -0.0621  |
+| total_timesteps    | 20864000 |
+| value_loss         | 0.0941   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 714      |
+| ep_reward_mean     | 26.2     |
+| explained_variance | 0.4      |
+| fps                | 10       |
+| nupdates           | 32700    |
+| policy_entropy     | 1.07     |
+| policy_loss        | -0.0699  |
+| total_timesteps    | 20928000 |
+| value_loss         | 0.087    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 728      |
+| ep_reward_mean     | 26.9     |
+| explained_variance | 0.669    |
+| fps                | 10       |
+| nupdates           | 32800    |
+| policy_entropy     | 1.14     |
+| policy_loss        | 0.0269   |
+| total_timesteps    | 20992000 |
+| value_loss         | 0.0342   |
+---------------------------------
+Eval num_timesteps=20998656, episode_reward=-1.95 +/- 1.62
+Episode length: 727.82 +/- 66.82
+---------------------------------
+| ep_len_mean        | 714      |
+| ep_reward_mean     | 26       |
+| explained_variance | 0.63     |
+| fps                | 10       |
+| nupdates           | 32900    |
+| policy_entropy     | 1.08     |
+| policy_loss        | -0.0576  |
+| total_timesteps    | 21056000 |
+| value_loss         | 0.194    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 713      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.524    |
+| fps                | 10       |
+| nupdates           | 33000    |
+| policy_entropy     | 1.13     |
+| policy_loss        | -0.00127 |
+| total_timesteps    | 21120000 |
+| value_loss         | 0.0478   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 718      |
+| ep_reward_mean     | 26.3     |
+| explained_variance | 0.454    |
+| fps                | 10       |
+| nupdates           | 33100    |
+| policy_entropy     | 1.06     |
+| policy_loss        | -0.0188  |
+| total_timesteps    | 21184000 |
+| value_loss         | 0.0586   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 716      |
+| ep_reward_mean     | 26       |
+| explained_variance | 0.778    |
+| fps                | 10       |
+| nupdates           | 33200    |
+| policy_entropy     | 1.11     |
+| policy_loss        | 0.0307   |
+| total_timesteps    | 21248000 |
+| value_loss         | 0.0326   |
+---------------------------------
+Eval num_timesteps=21248640, episode_reward=-1.61 +/- 1.56
+Episode length: 735.14 +/- 50.86
+---------------------------------
+| ep_len_mean        | 705      |
+| ep_reward_mean     | 25.8     |
+| explained_variance | 0.596    |
+| fps                | 10       |
+| nupdates           | 33300    |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.0303  |
+| total_timesteps    | 21312000 |
+| value_loss         | 0.0641   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 720      |
+| ep_reward_mean     | 26.4     |
+| explained_variance | 0.567    |
+| fps                | 10       |
+| nupdates           | 33400    |
+| policy_entropy     | 1.18     |
+| policy_loss        | -0.0745  |
+| total_timesteps    | 21376000 |
+| value_loss         | 0.281    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 721      |
+| ep_reward_mean     | 26.5     |
+| explained_variance | 0.526    |
+| fps                | 10       |
+| nupdates           | 33500    |
+| policy_entropy     | 1.08     |
+| policy_loss        | -0.0228  |
+| total_timesteps    | 21440000 |
+| value_loss         | 0.137    |
+---------------------------------
+Eval num_timesteps=21498624, episode_reward=-1.63 +/- 1.60
+Episode length: 735.20 +/- 51.98
+---------------------------------
+| ep_len_mean        | 702      |
+| ep_reward_mean     | 25.3     |
+| explained_variance | 0.558    |
+| fps                | 10       |
+| nupdates           | 33600    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0233  |
+| total_timesteps    | 21504000 |
+| value_loss         | 0.0534   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 712      |
+| ep_reward_mean     | 26       |
+| explained_variance | 0.671    |
+| fps                | 10       |
+| nupdates           | 33700    |
+| policy_entropy     | 1.12     |
+| policy_loss        | 0.0434   |
+| total_timesteps    | 21568000 |
+| value_loss         | 0.0194   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 717      |
+| ep_reward_mean     | 26.4     |
+| explained_variance | 0.435    |
+| fps                | 10       |
+| nupdates           | 33800    |
+| policy_entropy     | 1.18     |
+| policy_loss        | -0.177   |
+| total_timesteps    | 21632000 |
+| value_loss         | 0.441    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 717      |
+| ep_reward_mean     | 26.2     |
+| explained_variance | 0.489    |
+| fps                | 10       |
+| nupdates           | 33900    |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.175   |
+| total_timesteps    | 21696000 |
+| value_loss         | 0.391    |
+---------------------------------
+Eval num_timesteps=21748608, episode_reward=-1.45 +/- 1.58
+Episode length: 738.19 +/- 46.87
+---------------------------------
+| ep_len_mean        | 723      |
+| ep_reward_mean     | 26.8     |
+| explained_variance | 0.285    |
+| fps                | 10       |
+| nupdates           | 34000    |
+| policy_entropy     | 1.07     |
+| policy_loss        | -0.0778  |
+| total_timesteps    | 21760000 |
+| value_loss         | 0.309    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 730      |
+| ep_reward_mean     | 27.1     |
+| explained_variance | 0.724    |
+| fps                | 10       |
+| nupdates           | 34100    |
+| policy_entropy     | 1.12     |
+| policy_loss        | 0.00659  |
+| total_timesteps    | 21824000 |
+| value_loss         | 0.0347   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 699      |
+| ep_reward_mean     | 25.3     |
+| explained_variance | 0.439    |
+| fps                | 10       |
+| nupdates           | 34200    |
+| policy_entropy     | 1.05     |
+| policy_loss        | -0.0684  |
+| total_timesteps    | 21888000 |
+| value_loss         | 0.226    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 701      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.57     |
+| fps                | 10       |
+| nupdates           | 34300    |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.056   |
+| total_timesteps    | 21952000 |
+| value_loss         | 0.0831   |
+---------------------------------
+Eval num_timesteps=21998592, episode_reward=-1.75 +/- 1.66
+Episode length: 735.03 +/- 50.25
+---------------------------------
+| ep_len_mean        | 708      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.699    |
+| fps                | 10       |
+| nupdates           | 34400    |
+| policy_entropy     | 1.15     |
+| policy_loss        | 0.0173   |
+| total_timesteps    | 22016000 |
+| value_loss         | 0.148    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 708      |
+| ep_reward_mean     | 25.8     |
+| explained_variance | 0.226    |
+| fps                | 10       |
+| nupdates           | 34500    |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.0649  |
+| total_timesteps    | 22080000 |
+| value_loss         | 0.148    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 716      |
+| ep_reward_mean     | 26.4     |
+| explained_variance | 0.246    |
+| fps                | 10       |
+| nupdates           | 34600    |
+| policy_entropy     | 1.15     |
+| policy_loss        | -0.177   |
+| total_timesteps    | 22144000 |
+| value_loss         | 0.452    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 693      |
+| ep_reward_mean     | 25       |
+| explained_variance | 0.579    |
+| fps                | 10       |
+| nupdates           | 34700    |
+| policy_entropy     | 1.07     |
+| policy_loss        | -0.0334  |
+| total_timesteps    | 22208000 |
+| value_loss         | 0.224    |
+---------------------------------
+Eval num_timesteps=22248576, episode_reward=-1.69 +/- 1.62
+Episode length: 733.20 +/- 57.08
+---------------------------------
+| ep_len_mean        | 721      |
+| ep_reward_mean     | 26.4     |
+| explained_variance | 0.123    |
+| fps                | 10       |
+| nupdates           | 34800    |
+| policy_entropy     | 1.19     |
+| policy_loss        | -0.215   |
+| total_timesteps    | 22272000 |
+| value_loss         | 0.515    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 719      |
+| ep_reward_mean     | 26.4     |
+| explained_variance | 0.402    |
+| fps                | 10       |
+| nupdates           | 34900    |
+| policy_entropy     | 1.1      |
+| policy_loss        | -0.00137 |
+| total_timesteps    | 22336000 |
+| value_loss         | 0.0843   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 695      |
+| ep_reward_mean     | 25.3     |
+| explained_variance | 0.485    |
+| fps                | 10       |
+| nupdates           | 35000    |
+| policy_entropy     | 1.07     |
+| policy_loss        | -0.0761  |
+| total_timesteps    | 22400000 |
+| value_loss         | 0.322    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 720      |
+| ep_reward_mean     | 26.7     |
+| explained_variance | 0.487    |
+| fps                | 10       |
+| nupdates           | 35100    |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.123   |
+| total_timesteps    | 22464000 |
+| value_loss         | 0.283    |
+---------------------------------
+Eval num_timesteps=22498560, episode_reward=-1.25 +/- 1.53
+Episode length: 741.87 +/- 27.83
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 719      |
+| ep_reward_mean     | 26.5     |
+| explained_variance | 0.508    |
+| fps                | 10       |
+| nupdates           | 35200    |
+| policy_entropy     | 1.22     |
+| policy_loss        | -0.00883 |
+| total_timesteps    | 22528000 |
+| value_loss         | 0.0571   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 716      |
+| ep_reward_mean     | 26.2     |
+| explained_variance | 0.694    |
+| fps                | 10       |
+| nupdates           | 35300    |
+| policy_entropy     | 1.26     |
+| policy_loss        | -0.0104  |
+| total_timesteps    | 22592000 |
+| value_loss         | 0.0589   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 708      |
+| ep_reward_mean     | 26       |
+| explained_variance | 0.543    |
+| fps                | 10       |
+| nupdates           | 35400    |
+| policy_entropy     | 1.16     |
+| policy_loss        | -0.0437  |
+| total_timesteps    | 22656000 |
+| value_loss         | 0.163    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 712      |
+| ep_reward_mean     | 26.2     |
+| explained_variance | 0.633    |
+| fps                | 10       |
+| nupdates           | 35500    |
+| policy_entropy     | 1.11     |
+| policy_loss        | 0.00966  |
+| total_timesteps    | 22720000 |
+| value_loss         | 0.0529   |
+---------------------------------
+Eval num_timesteps=22748544, episode_reward=-1.37 +/- 1.59
+Episode length: 739.31 +/- 43.07
+---------------------------------
+| ep_len_mean        | 722      |
+| ep_reward_mean     | 26.5     |
+| explained_variance | 0.275    |
+| fps                | 10       |
+| nupdates           | 35600    |
+| policy_entropy     | 1.08     |
+| policy_loss        | 0.0074   |
+| total_timesteps    | 22784000 |
+| value_loss         | 0.177    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 710      |
+| ep_reward_mean     | 25.8     |
+| explained_variance | 0.46     |
+| fps                | 10       |
+| nupdates           | 35700    |
+| policy_entropy     | 1.12     |
+| policy_loss        | -0.00356 |
+| total_timesteps    | 22848000 |
+| value_loss         | 0.25     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 731      |
+| ep_reward_mean     | 26.9     |
+| explained_variance | 0.582    |
+| fps                | 10       |
+| nupdates           | 35800    |
+| policy_entropy     | 1.18     |
+| policy_loss        | -0.00586 |
+| total_timesteps    | 22912000 |
+| value_loss         | 0.064    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 726      |
+| ep_reward_mean     | 26.6     |
+| explained_variance | 0.428    |
+| fps                | 10       |
+| nupdates           | 35900    |
+| policy_entropy     | 1.11     |
+| policy_loss        | -0.129   |
+| total_timesteps    | 22976000 |
+| value_loss         | 0.382    |
+---------------------------------
+Eval num_timesteps=22998528, episode_reward=-1.14 +/- 1.49
+Episode length: 742.22 +/- 29.11
+New best mean reward!
+---------------------------------
+| ep_len_mean        | 733      |
+| ep_reward_mean     | 27.1     |
+| explained_variance | 0.479    |
+| fps                | 10       |
+| nupdates           | 36000    |
+| policy_entropy     | 1.17     |
+| policy_loss        | -0.074   |
+| total_timesteps    | 23040000 |
+| value_loss         | 0.215    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 712      |
+| ep_reward_mean     | 26.1     |
+| explained_variance | 0.474    |
+| fps                | 10       |
+| nupdates           | 36100    |
+| policy_entropy     | 1.06     |
+| policy_loss        | -0.153   |
+| total_timesteps    | 23104000 |
+| value_loss         | 0.379    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 701      |
+| ep_reward_mean     | 25.4     |
+| explained_variance | 0.491    |
+| fps                | 10       |
+| nupdates           | 36200    |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.0142  |
+| total_timesteps    | 23168000 |
+| value_loss         | 0.283    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 712      |
+| ep_reward_mean     | 25.8     |
+| explained_variance | 0.326    |
+| fps                | 10       |
+| nupdates           | 36300    |
+| policy_entropy     | 1.11     |
+| policy_loss        | -0.0589  |
+| total_timesteps    | 23232000 |
+| value_loss         | 0.263    |
+---------------------------------
+Eval num_timesteps=23248512, episode_reward=-1.39 +/- 1.57
+Episode length: 738.98 +/- 43.12
+---------------------------------
+| ep_len_mean        | 705      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.599    |
+| fps                | 10       |
+| nupdates           | 36400    |
+| policy_entropy     | 1.1      |
+| policy_loss        | 0.0375   |
+| total_timesteps    | 23296000 |
+| value_loss         | 0.0854   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 710      |
+| ep_reward_mean     | 26       |
+| explained_variance | 0.642    |
+| fps                | 10       |
+| nupdates           | 36500    |
+| policy_entropy     | 1.27     |
+| policy_loss        | -0.00804 |
+| total_timesteps    | 23360000 |
+| value_loss         | 0.0509   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 699      |
+| ep_reward_mean     | 25.7     |
+| explained_variance | 0.608    |
+| fps                | 10       |
+| nupdates           | 36600    |
+| policy_entropy     | 1.15     |
+| policy_loss        | -0.0439  |
+| total_timesteps    | 23424000 |
+| value_loss         | 0.0608   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 730      |
+| ep_reward_mean     | 27.1     |
+| explained_variance | 0.368    |
+| fps                | 10       |
+| nupdates           | 36700    |
+| policy_entropy     | 1.17     |
+| policy_loss        | 0.0022   |
+| total_timesteps    | 23488000 |
+| value_loss         | 0.134    |
+---------------------------------
+Eval num_timesteps=23498496, episode_reward=-1.50 +/- 1.56
+Episode length: 738.26 +/- 43.58
+---------------------------------
+| ep_len_mean        | 724      |
+| ep_reward_mean     | 26.6     |
+| explained_variance | 0.851    |
+| fps                | 10       |
+| nupdates           | 36800    |
+| policy_entropy     | 1.16     |
+| policy_loss        | 0.0253   |
+| total_timesteps    | 23552000 |
+| value_loss         | 0.0325   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 713      |
+| ep_reward_mean     | 26       |
+| explained_variance | 0.389    |
+| fps                | 10       |
+| nupdates           | 36900    |
+| policy_entropy     | 1.16     |
+| policy_loss        | -0.0441  |
+| total_timesteps    | 23616000 |
+| value_loss         | 0.28     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 718      |
+| ep_reward_mean     | 26.5     |
+| explained_variance | 0.749    |
+| fps                | 10       |
+| nupdates           | 37000    |
+| policy_entropy     | 1.12     |
+| policy_loss        | -0.00112 |
+| total_timesteps    | 23680000 |
+| value_loss         | 0.0192   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 727      |
+| ep_reward_mean     | 26.7     |
+| explained_variance | 0.243    |
+| fps                | 10       |
+| nupdates           | 37100    |
+| policy_entropy     | 1.07     |
+| policy_loss        | -0.1     |
+| total_timesteps    | 23744000 |
+| value_loss         | 0.442    |
+---------------------------------
+Eval num_timesteps=23748480, episode_reward=-1.65 +/- 1.62
+Episode length: 735.69 +/- 47.65
+---------------------------------
+| ep_len_mean        | 724      |
+| ep_reward_mean     | 26.7     |
+| explained_variance | 0.399    |
+| fps                | 10       |
+| nupdates           | 37200    |
+| policy_entropy     | 1.15     |
+| policy_loss        | -0.0618  |
+| total_timesteps    | 23808000 |
+| value_loss         | 0.193    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 737      |
+| ep_reward_mean     | 27.4     |
+| explained_variance | 0.656    |
+| fps                | 10       |
+| nupdates           | 37300    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0248  |
+| total_timesteps    | 23872000 |
+| value_loss         | 0.0557   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 728      |
+| ep_reward_mean     | 27       |
+| explained_variance | 0.707    |
+| fps                | 10       |
+| nupdates           | 37400    |
+| policy_entropy     | 1.16     |
+| policy_loss        | 0.00887  |
+| total_timesteps    | 23936000 |
+| value_loss         | 0.0414   |
+---------------------------------
+Eval num_timesteps=23998464, episode_reward=-1.60 +/- 1.69
+Episode length: 733.76 +/- 55.80
+---------------------------------
+| ep_len_mean        | 719      |
+| ep_reward_mean     | 26.4     |
+| explained_variance | 0.212    |
+| fps                | 10       |
+| nupdates           | 37500    |
+| policy_entropy     | 1.17     |
+| policy_loss        | -0.17    |
+| total_timesteps    | 24000000 |
+| value_loss         | 0.32     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 724      |
+| ep_reward_mean     | 26.7     |
+| explained_variance | 0.498    |
+| fps                | 10       |
+| nupdates           | 37600    |
+| policy_entropy     | 1.01     |
+| policy_loss        | 0.0182   |
+| total_timesteps    | 24064000 |
+| value_loss         | 0.0359   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 724      |
+| ep_reward_mean     | 26.9     |
+| explained_variance | 0.296    |
+| fps                | 10       |
+| nupdates           | 37700    |
+| policy_entropy     | 1.08     |
+| policy_loss        | -0.0682  |
+| total_timesteps    | 24128000 |
+| value_loss         | 0.199    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 717      |
+| ep_reward_mean     | 26.5     |
+| explained_variance | 0.704    |
+| fps                | 10       |
+| nupdates           | 37800    |
+| policy_entropy     | 1.08     |
+| policy_loss        | -0.00355 |
+| total_timesteps    | 24192000 |
+| value_loss         | 0.105    |
+---------------------------------
+Eval num_timesteps=24248448, episode_reward=-1.61 +/- 1.58
+Episode length: 734.15 +/- 57.21
+---------------------------------
+| ep_len_mean        | 719      |
+| ep_reward_mean     | 26.5     |
+| explained_variance | 0.624    |
+| fps                | 10       |
+| nupdates           | 37900    |
+| policy_entropy     | 1.09     |
+| policy_loss        | -0.0049  |
+| total_timesteps    | 24256000 |
+| value_loss         | 0.0815   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 714      |
+| ep_reward_mean     | 25.9     |
+| explained_variance | 0.542    |
+| fps                | 10       |
+| nupdates           | 38000    |
+| policy_entropy     | 1.16     |
+| policy_loss        | 0.0699   |
+| total_timesteps    | 24320000 |
+| value_loss         | 0.12     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 707      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.703    |
+| fps                | 10       |
+| nupdates           | 38100    |
+| policy_entropy     | 0.994    |
+| policy_loss        | -0.00596 |
+| total_timesteps    | 24384000 |
+| value_loss         | 0.153    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 726      |
+| ep_reward_mean     | 26.9     |
+| explained_variance | 0.639    |
+| fps                | 10       |
+| nupdates           | 38200    |
+| policy_entropy     | 1.1      |
+| policy_loss        | 0.0386   |
+| total_timesteps    | 24448000 |
+| value_loss         | 0.0661   |
+---------------------------------
+Eval num_timesteps=24498432, episode_reward=-1.55 +/- 1.59
+Episode length: 737.06 +/- 44.14
+---------------------------------
+| ep_len_mean        | 721      |
+| ep_reward_mean     | 26.4     |
+| explained_variance | 0.685    |
+| fps                | 10       |
+| nupdates           | 38300    |
+| policy_entropy     | 1.14     |
+| policy_loss        | 0.0271   |
+| total_timesteps    | 24512000 |
+| value_loss         | 0.0698   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 723      |
+| ep_reward_mean     | 26.6     |
+| explained_variance | 0.745    |
+| fps                | 10       |
+| nupdates           | 38400    |
+| policy_entropy     | 1.05     |
+| policy_loss        | 0.0553   |
+| total_timesteps    | 24576000 |
+| value_loss         | 0.0205   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 728      |
+| ep_reward_mean     | 26.8     |
+| explained_variance | 0.541    |
+| fps                | 10       |
+| nupdates           | 38500    |
+| policy_entropy     | 1.13     |
+| policy_loss        | -0.0829  |
+| total_timesteps    | 24640000 |
+| value_loss         | 0.258    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 713      |
+| ep_reward_mean     | 26.3     |
+| explained_variance | 0.695    |
+| fps                | 10       |
+| nupdates           | 38600    |
+| policy_entropy     | 1.11     |
+| policy_loss        | -0.0212  |
+| total_timesteps    | 24704000 |
+| value_loss         | 0.0709   |
+---------------------------------
+Eval num_timesteps=24748416, episode_reward=-1.61 +/- 1.58
+Episode length: 735.82 +/- 52.90
+---------------------------------
+| ep_len_mean        | 724      |
+| ep_reward_mean     | 26.5     |
+| explained_variance | 0.605    |
+| fps                | 10       |
+| nupdates           | 38700    |
+| policy_entropy     | 1.2      |
+| policy_loss        | -0.0588  |
+| total_timesteps    | 24768000 |
+| value_loss         | 0.279    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 700      |
+| ep_reward_mean     | 25.4     |
+| explained_variance | 0.586    |
+| fps                | 10       |
+| nupdates           | 38800    |
+| policy_entropy     | 1.15     |
+| policy_loss        | -0.0474  |
+| total_timesteps    | 24832000 |
+| value_loss         | 0.23     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 680      |
+| ep_reward_mean     | 24.5     |
+| explained_variance | 0.683    |
+| fps                | 10       |
+| nupdates           | 38900    |
+| policy_entropy     | 1.1      |
+| policy_loss        | 0.0241   |
+| total_timesteps    | 24896000 |
+| value_loss         | 0.0809   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 720      |
+| ep_reward_mean     | 26.4     |
+| explained_variance | 0.72     |
+| fps                | 10       |
+| nupdates           | 39000    |
+| policy_entropy     | 1.2      |
+| policy_loss        | 0.0262   |
+| total_timesteps    | 24960000 |
+| value_loss         | 0.0301   |
+---------------------------------
+Eval num_timesteps=24998400, episode_reward=-1.32 +/- 1.58
+Episode length: 740.50 +/- 35.62
+---------------------------------
+| ep_len_mean        | 728      |
+| ep_reward_mean     | 27.4     |
+| explained_variance | 0.701    |
+| fps                | 10       |
+| nupdates           | 39100    |
+| policy_entropy     | 1.05     |
+| policy_loss        | 0.0138   |
+| total_timesteps    | 25024000 |
+| value_loss         | 0.0635   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 699      |
+| ep_reward_mean     | 25.7     |
+| explained_variance | 0.55     |
+| fps                | 10       |
+| nupdates           | 39200    |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.0728  |
+| total_timesteps    | 25088000 |
+| value_loss         | 0.314    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 680      |
+| ep_reward_mean     | 24.3     |
+| explained_variance | 0.631    |
+| fps                | 10       |
+| nupdates           | 39300    |
+| policy_entropy     | 1.15     |
+| policy_loss        | -0.0723  |
+| total_timesteps    | 25152000 |
+| value_loss         | 0.159    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 702      |
+| ep_reward_mean     | 25.3     |
+| explained_variance | 0.698    |
+| fps                | 10       |
+| nupdates           | 39400    |
+| policy_entropy     | 0.892    |
+| policy_loss        | -0.0219  |
+| total_timesteps    | 25216000 |
+| value_loss         | 0.0997   |
+---------------------------------
+Eval num_timesteps=25248384, episode_reward=-2.21 +/- 1.64
+Episode length: 725.22 +/- 67.40
+---------------------------------
+| ep_len_mean        | 671      |
+| ep_reward_mean     | 23.7     |
+| explained_variance | 0.643    |
+| fps                | 10       |
+| nupdates           | 39500    |
+| policy_entropy     | 1.13     |
+| policy_loss        | 0.00451  |
+| total_timesteps    | 25280000 |
+| value_loss         | 0.154    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 709      |
+| ep_reward_mean     | 25.6     |
+| explained_variance | 0.499    |
+| fps                | 10       |
+| nupdates           | 39600    |
+| policy_entropy     | 1.06     |
+| policy_loss        | -0.00947 |
+| total_timesteps    | 25344000 |
+| value_loss         | 0.0718   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 723      |
+| ep_reward_mean     | 26.5     |
+| explained_variance | 0.709    |
+| fps                | 10       |
+| nupdates           | 39700    |
+| policy_entropy     | 1.03     |
+| policy_loss        | 0.00675  |
+| total_timesteps    | 25408000 |
+| value_loss         | 0.03     |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 728      |
+| ep_reward_mean     | 26.9     |
+| explained_variance | 0.665    |
+| fps                | 10       |
+| nupdates           | 39800    |
+| policy_entropy     | 0.993    |
+| policy_loss        | -0.00745 |
+| total_timesteps    | 25472000 |
+| value_loss         | 0.105    |
+---------------------------------
+Eval num_timesteps=25498368, episode_reward=-1.65 +/- 1.58
+Episode length: 738.02 +/- 41.89
+---------------------------------
+| ep_len_mean        | 715      |
+| ep_reward_mean     | 26.3     |
+| explained_variance | 0.617    |
+| fps                | 10       |
+| nupdates           | 39900    |
+| policy_entropy     | 1.08     |
+| policy_loss        | -0.0614  |
+| total_timesteps    | 25536000 |
+| value_loss         | 0.157    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 728      |
+| ep_reward_mean     | 27.1     |
+| explained_variance | 0.541    |
+| fps                | 10       |
+| nupdates           | 40000    |
+| policy_entropy     | 1.04     |
+| policy_loss        | -0.0434  |
+| total_timesteps    | 25600000 |
+| value_loss         | 0.106    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 721      |
+| ep_reward_mean     | 26.6     |
+| explained_variance | 0.4      |
+| fps                | 10       |
+| nupdates           | 40100    |
+| policy_entropy     | 1.07     |
+| policy_loss        | -0.104   |
+| total_timesteps    | 25664000 |
+| value_loss         | 0.249    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 722      |
+| ep_reward_mean     | 26.5     |
+| explained_variance | 0.539    |
+| fps                | 10       |
+| nupdates           | 40200    |
+| policy_entropy     | 1.13     |
+| policy_loss        | 0.00287  |
+| total_timesteps    | 25728000 |
+| value_loss         | 0.0662   |
+---------------------------------
+Eval num_timesteps=25748352, episode_reward=-1.34 +/- 1.53
+Episode length: 740.81 +/- 30.99
+---------------------------------
+| ep_len_mean        | 732      |
+| ep_reward_mean     | 27.2     |
+| explained_variance | 0.531    |
+| fps                | 10       |
+| nupdates           | 40300    |
+| policy_entropy     | 1.1      |
+| policy_loss        | -0.00151 |
+| total_timesteps    | 25792000 |
+| value_loss         | 0.0401   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 721      |
+| ep_reward_mean     | 26.4     |
+| explained_variance | 0.474    |
+| fps                | 10       |
+| nupdates           | 40400    |
+| policy_entropy     | 1.1      |
+| policy_loss        | -0.177   |
+| total_timesteps    | 25856000 |
+| value_loss         | 0.444    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 719      |
+| ep_reward_mean     | 26.3     |
+| explained_variance | 0.604    |
+| fps                | 10       |
+| nupdates           | 40500    |
+| policy_entropy     | 0.983    |
+| policy_loss        | -0.0163  |
+| total_timesteps    | 25920000 |
+| value_loss         | 0.191    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 705      |
+| ep_reward_mean     | 25.8     |
+| explained_variance | 0.442    |
+| fps                | 10       |
+| nupdates           | 40600    |
+| policy_entropy     | 1.11     |
+| policy_loss        | -0.0577  |
+| total_timesteps    | 25984000 |
+| value_loss         | 0.114    |
+---------------------------------
+Eval num_timesteps=25998336, episode_reward=-1.71 +/- 1.62
+Episode length: 735.14 +/- 54.55
+---------------------------------
+| ep_len_mean        | 726      |
+| ep_reward_mean     | 26.9     |
+| explained_variance | 0.133    |
+| fps                | 10       |
+| nupdates           | 40700    |
+| policy_entropy     | 1.14     |
+| policy_loss        | -0.104   |
+| total_timesteps    | 26048000 |
+| value_loss         | 0.286    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 720      |
+| ep_reward_mean     | 26.3     |
+| explained_variance | 0.524    |
+| fps                | 10       |
+| nupdates           | 40800    |
+| policy_entropy     | 1.21     |
+| policy_loss        | 0.0278   |
+| total_timesteps    | 26112000 |
+| value_loss         | 0.0674   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 687      |
+| ep_reward_mean     | 24.7     |
+| explained_variance | 0.58     |
+| fps                | 10       |
+| nupdates           | 40900    |
+| policy_entropy     | 1.11     |
+| policy_loss        | -0.0204  |
+| total_timesteps    | 26176000 |
+| value_loss         | 0.158    |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 713      |
+| ep_reward_mean     | 26       |
+| explained_variance | 0.518    |
+| fps                | 10       |
+| nupdates           | 41000    |
+| policy_entropy     | 1.13     |
+| policy_loss        | -0.193   |
+| total_timesteps    | 26240000 |
+| value_loss         | 0.474    |
+---------------------------------
+Eval num_timesteps=26248320, episode_reward=-2.18 +/- 1.65
+Episode length: 725.03 +/- 68.21
+---------------------------------
+| ep_len_mean        | 712      |
+| ep_reward_mean     | 25.8     |
+| explained_variance | 0.717    |
+| fps                | 10       |
+| nupdates           | 41100    |
+| policy_entropy     | 1.16     |
+| policy_loss        | 0.0549   |
+| total_timesteps    | 26304000 |
+| value_loss         | 0.0633   |
+---------------------------------
+---------------------------------
+| ep_len_mean        | 723      |
+| ep_reward_mean     | 26.8     |
+| explained_variance | 0.522    |
+| fps                | 10       |
+| nupdates           | 41200    |
+| policy_entropy     | 1.15     |
+| policy_loss        | -0.0174  |
+| total_timesteps    | 26368000 |
+| value_loss         | 0.147    |
+---------------------------------

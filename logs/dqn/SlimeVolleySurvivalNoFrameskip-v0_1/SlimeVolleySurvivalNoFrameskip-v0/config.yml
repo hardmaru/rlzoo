@@ -1,0 +1,12 @@
+!!python/object/apply:collections.OrderedDict
+- - [buffer_size, 10000]
+  - [exploration_final_eps, 0.01]
+  - [exploration_fraction, 0.1]
+  - [learning_rate, 0.0001]
+  - [learning_starts, 10000]
+  - [n_timesteps, 10000000.0]
+  - [policy, CnnPolicy]
+  - [prioritized_replay, true]
+  - [prioritized_replay_alpha, 0.6]
+  - [target_network_update_freq, 1000]
+  - [train_freq, 4]
