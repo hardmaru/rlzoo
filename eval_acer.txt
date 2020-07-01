@@ -1,0 +1,4092 @@
+Using Atari wrapper
+Loading a model without an environment, this model cannot be trained until it has a valid environment.
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: 1.00000
+Atari Episode Length 750
+Episode Reward: 1.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 744
+Episode Reward: -4.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 744
+Episode Reward: -4.00000
+Episode Length 744
+Atari Episode Score: -5.00000
+Atari Episode Length 457
+Episode Reward: -5.00000
+Episode Length 457
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -5.00000
+Atari Episode Length 714
+Episode Reward: -5.00000
+Episode Length 714
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 744
+Episode Reward: -4.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -4.00000
+Atari Episode Length 699
+Episode Reward: -4.00000
+Episode Length 699
+Atari Episode Score: -5.00000
+Atari Episode Length 561
+Episode Reward: -5.00000
+Episode Length 561
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -5.00000
+Atari Episode Length 523
+Episode Reward: -5.00000
+Episode Length 523
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -5.00000
+Atari Episode Length 612
+Episode Reward: -5.00000
+Episode Length 612
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 745
+Episode Reward: -4.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 744
+Episode Reward: -4.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -4.00000
+Atari Episode Length 687
+Episode Reward: -4.00000
+Episode Length 687
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -5.00000
+Atari Episode Length 684
+Episode Reward: -5.00000
+Episode Length 684
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -5.00000
+Atari Episode Length 570
+Episode Reward: -5.00000
+Episode Length 570
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -4.00000
+Atari Episode Length 609
+Episode Reward: -4.00000
+Episode Length 609
+Atari Episode Score: 1.00000
+Atari Episode Length 745
+Episode Reward: 1.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 593
+Episode Reward: -4.00000
+Episode Length 593
+Atari Episode Score: -4.00000
+Atari Episode Length 743
+Episode Reward: -4.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 746
+Episode Reward: -4.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: 1.00000
+Atari Episode Length 743
+Episode Reward: 1.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -5.00000
+Atari Episode Length 690
+Episode Reward: -5.00000
+Episode Length 690
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: 1.00000
+Atari Episode Length 747
+Episode Reward: 1.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -5.00000
+Atari Episode Length 384
+Episode Reward: -5.00000
+Episode Length 384
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -5.00000
+Atari Episode Length 658
+Episode Reward: -5.00000
+Episode Length 658
+Atari Episode Score: -5.00000
+Atari Episode Length 658
+Episode Reward: -5.00000
+Episode Length 658
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 744
+Episode Reward: -4.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -4.00000
+Atari Episode Length 746
+Episode Reward: -4.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: 1.00000
+Atari Episode Length 743
+Episode Reward: 1.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: 1.00000
+Atari Episode Length 748
+Episode Reward: 1.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: 1.00000
+Atari Episode Length 750
+Episode Reward: 1.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -4.00000
+Atari Episode Length 746
+Episode Reward: -4.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 648
+Episode Reward: -3.00000
+Episode Length 648
+Atari Episode Score: -4.00000
+Atari Episode Length 746
+Episode Reward: -4.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -5.00000
+Atari Episode Length 609
+Episode Reward: -5.00000
+Episode Length 609
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -4.00000
+Atari Episode Length 743
+Episode Reward: -4.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: 2.00000
+Atari Episode Length 747
+Episode Reward: 2.00000
+Episode Length 747
+Atari Episode Score: -5.00000
+Atari Episode Length 559
+Episode Reward: -5.00000
+Episode Length 559
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 561
+Episode Reward: -4.00000
+Episode Length 561
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 743
+Episode Reward: -4.00000
+Episode Length 743
+Atari Episode Score: 2.00000
+Atari Episode Length 747
+Episode Reward: 2.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: -5.00000
+Atari Episode Length 546
+Episode Reward: -5.00000
+Episode Length 546
+Atari Episode Score: 1.00000
+Atari Episode Length 747
+Episode Reward: 1.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -5.00000
+Atari Episode Length 683
+Episode Reward: -5.00000
+Episode Length 683
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 744
+Episode Reward: -4.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -5.00000
+Atari Episode Length 367
+Episode Reward: -5.00000
+Episode Length 367
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: 1.00000
+Atari Episode Length 744
+Episode Reward: 1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -5.00000
+Atari Episode Length 270
+Episode Reward: -5.00000
+Episode Length 270
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 746
+Episode Reward: -4.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: 2.00000
+Atari Episode Length 749
+Episode Reward: 2.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: 5.00000
+Atari Episode Length 538
+Episode Reward: 5.00000
+Episode Length 538
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: 1.00000
+Atari Episode Length 748
+Episode Reward: 1.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -4.00000
+Atari Episode Length 725
+Episode Reward: -4.00000
+Episode Length 725
+Atari Episode Score: -4.00000
+Atari Episode Length 693
+Episode Reward: -4.00000
+Episode Length 693
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -5.00000
+Atari Episode Length 688
+Episode Reward: -5.00000
+Episode Length 688
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 743
+Episode Reward: -4.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: -5.00000
+Atari Episode Length 559
+Episode Reward: -5.00000
+Episode Length 559
+Atari Episode Score: -5.00000
+Atari Episode Length 541
+Episode Reward: -5.00000
+Episode Length 541
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -5.00000
+Atari Episode Length 617
+Episode Reward: -5.00000
+Episode Length 617
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: -5.00000
+Atari Episode Length 653
+Episode Reward: -5.00000
+Episode Length 653
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: 1.00000
+Atari Episode Length 749
+Episode Reward: 1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -5.00000
+Atari Episode Length 412
+Episode Reward: -5.00000
+Episode Length 412
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: 1.00000
+Atari Episode Length 746
+Episode Reward: 1.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -4.00000
+Atari Episode Length 745
+Episode Reward: -4.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: 2.00000
+Atari Episode Length 744
+Episode Reward: 2.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: 1.00000
+Atari Episode Length 750
+Episode Reward: 1.00000
+Episode Length 750
+Atari Episode Score: -4.00000
+Atari Episode Length 573
+Episode Reward: -4.00000
+Episode Length 573
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 694
+Episode Reward: -4.00000
+Episode Length 694
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: 1.00000
+Atari Episode Length 747
+Episode Reward: 1.00000
+Episode Length 747
+Atari Episode Score: 1.00000
+Atari Episode Length 750
+Episode Reward: 1.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -5.00000
+Atari Episode Length 570
+Episode Reward: -5.00000
+Episode Length 570
+Atari Episode Score: -4.00000
+Atari Episode Length 744
+Episode Reward: -4.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -5.00000
+Atari Episode Length 689
+Episode Reward: -5.00000
+Episode Length 689
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -5.00000
+Atari Episode Length 578
+Episode Reward: -5.00000
+Episode Length 578
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -5.00000
+Atari Episode Length 490
+Episode Reward: -5.00000
+Episode Length 490
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: -5.00000
+Atari Episode Length 672
+Episode Reward: -5.00000
+Episode Length 672
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: 1.00000
+Atari Episode Length 745
+Episode Reward: 1.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -5.00000
+Atari Episode Length 503
+Episode Reward: -5.00000
+Episode Length 503
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -5.00000
+Atari Episode Length 555
+Episode Reward: -5.00000
+Episode Length 555
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 745
+Episode Reward: -4.00000
+Episode Length 745
+Atari Episode Score: -4.00000
+Atari Episode Length 654
+Episode Reward: -4.00000
+Episode Length 654
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: 1.00000
+Atari Episode Length 745
+Episode Reward: 1.00000
+Episode Length 745
+Atari Episode Score: 2.00000
+Atari Episode Length 748
+Episode Reward: 2.00000
+Episode Length 748
+Atari Episode Score: -5.00000
+Atari Episode Length 747
+Episode Reward: -5.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: 1.00000
+Atari Episode Length 745
+Episode Reward: 1.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 699
+Episode Reward: -2.00000
+Episode Length 699
+Atari Episode Score: 1.00000
+Atari Episode Length 747
+Episode Reward: 1.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -4.00000
+Atari Episode Length 743
+Episode Reward: -4.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: 1.00000
+Atari Episode Length 745
+Episode Reward: 1.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 743
+Episode Reward: -4.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 668
+Episode Reward: -3.00000
+Episode Length 668
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -5.00000
+Atari Episode Length 471
+Episode Reward: -5.00000
+Episode Length 471
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 746
+Episode Reward: -4.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 746
+Episode Reward: -4.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 664
+Episode Reward: -4.00000
+Episode Length 664
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: 2.00000
+Atari Episode Length 748
+Episode Reward: 2.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -4.00000
+Atari Episode Length 743
+Episode Reward: -4.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 750
+Episode Reward: -4.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 510
+Episode Reward: -4.00000
+Episode Length 510
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: 1.00000
+Atari Episode Length 745
+Episode Reward: 1.00000
+Episode Length 745
+Atari Episode Score: 2.00000
+Atari Episode Length 747
+Episode Reward: 2.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -5.00000
+Atari Episode Length 658
+Episode Reward: -5.00000
+Episode Length 658
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: 2.00000
+Atari Episode Length 743
+Episode Reward: 2.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: 1.00000
+Atari Episode Length 749
+Episode Reward: 1.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -5.00000
+Atari Episode Length 327
+Episode Reward: -5.00000
+Episode Length 327
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -5.00000
+Atari Episode Length 668
+Episode Reward: -5.00000
+Episode Length 668
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 745
+Episode Reward: -4.00000
+Episode Length 745
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: 1.00000
+Atari Episode Length 749
+Episode Reward: 1.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -5.00000
+Atari Episode Length 587
+Episode Reward: -5.00000
+Episode Length 587
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: 1.00000
+Atari Episode Length 743
+Episode Reward: 1.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: 1.00000
+Atari Episode Length 743
+Episode Reward: 1.00000
+Episode Length 743
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 743
+Episode Reward: -4.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 746
+Episode Reward: -4.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -4.00000
+Atari Episode Length 579
+Episode Reward: -4.00000
+Episode Length 579
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -4.00000
+Atari Episode Length 750
+Episode Reward: -4.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: 2.00000
+Atari Episode Length 749
+Episode Reward: 2.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 750
+Episode Reward: -4.00000
+Episode Length 750
+Atari Episode Score: -4.00000
+Atari Episode Length 744
+Episode Reward: -4.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -5.00000
+Atari Episode Length 676
+Episode Reward: -5.00000
+Episode Length 676
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: 2.00000
+Atari Episode Length 745
+Episode Reward: 2.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: 2.00000
+Atari Episode Length 744
+Episode Reward: 2.00000
+Episode Length 744
+Atari Episode Score: -5.00000
+Atari Episode Length 612
+Episode Reward: -5.00000
+Episode Length 612
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 522
+Episode Reward: -4.00000
+Episode Length 522
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -4.00000
+Atari Episode Length 744
+Episode Reward: -4.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 744
+Episode Reward: -4.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 745
+Episode Reward: -4.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: 1.00000
+Atari Episode Length 747
+Episode Reward: 1.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -5.00000
+Atari Episode Length 627
+Episode Reward: -5.00000
+Episode Length 627
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 668
+Episode Reward: -4.00000
+Episode Length 668
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 684
+Episode Reward: -2.00000
+Episode Length 684
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: 1.00000
+Atari Episode Length 744
+Episode Reward: 1.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 689
+Episode Reward: -4.00000
+Episode Length 689
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -5.00000
+Atari Episode Length 412
+Episode Reward: -5.00000
+Episode Length 412
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: 1.00000
+Atari Episode Length 746
+Episode Reward: 1.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -5.00000
+Atari Episode Length 683
+Episode Reward: -5.00000
+Episode Length 683
+Atari Episode Score: 1.00000
+Atari Episode Length 744
+Episode Reward: 1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: 1.00000
+Atari Episode Length 745
+Episode Reward: 1.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -5.00000
+Atari Episode Length 673
+Episode Reward: -5.00000
+Episode Length 673
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -5.00000
+Atari Episode Length 511
+Episode Reward: -5.00000
+Episode Length 511
+Atari Episode Score: 1.00000
+Atari Episode Length 746
+Episode Reward: 1.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 612
+Episode Reward: -4.00000
+Episode Length 612
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -5.00000
+Atari Episode Length 742
+Episode Reward: -5.00000
+Episode Length 742
+Atari Episode Score: 1.00000
+Atari Episode Length 743
+Episode Reward: 1.00000
+Episode Length 743
+Atari Episode Score: -5.00000
+Atari Episode Length 604
+Episode Reward: -5.00000
+Episode Length 604
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 750
+Episode Reward: -4.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: 1.00000
+Atari Episode Length 744
+Episode Reward: 1.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: 3.00000
+Atari Episode Length 745
+Episode Reward: 3.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: 1.00000
+Atari Episode Length 747
+Episode Reward: 1.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 746
+Episode Reward: -4.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: 2.00000
+Atari Episode Length 743
+Episode Reward: 2.00000
+Episode Length 743
+Atari Episode Score: 1.00000
+Atari Episode Length 743
+Episode Reward: 1.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: 1.00000
+Atari Episode Length 746
+Episode Reward: 1.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: 1.00000
+Atari Episode Length 749
+Episode Reward: 1.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 728
+Episode Reward: -4.00000
+Episode Length 728
+Atari Episode Score: -4.00000
+Atari Episode Length 704
+Episode Reward: -4.00000
+Episode Length 704
+Atari Episode Score: -5.00000
+Atari Episode Length 614
+Episode Reward: -5.00000
+Episode Length 614
+Atari Episode Score: 1.00000
+Atari Episode Length 744
+Episode Reward: 1.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: 1.00000
+Atari Episode Length 743
+Episode Reward: 1.00000
+Episode Length 743
+Atari Episode Score: 1.00000
+Atari Episode Length 743
+Episode Reward: 1.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 750
+Episode Reward: -4.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: 2.00000
+Atari Episode Length 750
+Episode Reward: 2.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: 1.00000
+Atari Episode Length 750
+Episode Reward: 1.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 721
+Episode Reward: -3.00000
+Episode Length 721
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -5.00000
+Atari Episode Length 680
+Episode Reward: -5.00000
+Episode Length 680
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -5.00000
+Atari Episode Length 419
+Episode Reward: -5.00000
+Episode Length 419
+Atari Episode Score: -4.00000
+Atari Episode Length 745
+Episode Reward: -4.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -4.00000
+Atari Episode Length 720
+Episode Reward: -4.00000
+Episode Length 720
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: 1.00000
+Atari Episode Length 744
+Episode Reward: 1.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: 2.00000
+Atari Episode Length 744
+Episode Reward: 2.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -5.00000
+Atari Episode Length 725
+Episode Reward: -5.00000
+Episode Length 725
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -4.00000
+Atari Episode Length 578
+Episode Reward: -4.00000
+Episode Length 578
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: 1.00000
+Atari Episode Length 745
+Episode Reward: 1.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -4.00000
+Atari Episode Length 747
+Episode Reward: -4.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: 1.00000
+Atari Episode Length 746
+Episode Reward: 1.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 678
+Episode Reward: -4.00000
+Episode Length 678
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: 1.00000
+Atari Episode Length 747
+Episode Reward: 1.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 750
+Episode Reward: -3.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -5.00000
+Atari Episode Length 531
+Episode Reward: -5.00000
+Episode Length 531
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: -5.00000
+Atari Episode Length 351
+Episode Reward: -5.00000
+Episode Length 351
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: 1.00000
+Atari Episode Length 747
+Episode Reward: 1.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: 1.00000
+Atari Episode Length 743
+Episode Reward: 1.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: 1.00000
+Atari Episode Length 749
+Episode Reward: 1.00000
+Episode Length 749
+Atari Episode Score: 1.00000
+Atari Episode Length 745
+Episode Reward: 1.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 750
+Episode Reward: 0.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: 1.00000
+Atari Episode Length 750
+Episode Reward: 1.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -5.00000
+Atari Episode Length 313
+Episode Reward: -5.00000
+Episode Length 313
+Atari Episode Score: -4.00000
+Atari Episode Length 750
+Episode Reward: -4.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -5.00000
+Atari Episode Length 552
+Episode Reward: -5.00000
+Episode Length 552
+Atari Episode Score: 0.00000
+Atari Episode Length 747
+Episode Reward: 0.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -5.00000
+Atari Episode Length 505
+Episode Reward: -5.00000
+Episode Length 505
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 745
+Episode Reward: -4.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 748
+Episode Reward: -1.00000
+Episode Length 748
+Atari Episode Score: -5.00000
+Atari Episode Length 651
+Episode Reward: -5.00000
+Episode Length 651
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 747
+Episode Reward: -1.00000
+Episode Length 747
+Atari Episode Score: 0.00000
+Atari Episode Length 744
+Episode Reward: 0.00000
+Episode Length 744
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -4.00000
+Atari Episode Length 748
+Episode Reward: -4.00000
+Episode Length 748
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -5.00000
+Atari Episode Length 692
+Episode Reward: -5.00000
+Episode Length 692
+Atari Episode Score: -5.00000
+Atari Episode Length 646
+Episode Reward: -5.00000
+Episode Length 646
+Atari Episode Score: 0.00000
+Atari Episode Length 749
+Episode Reward: 0.00000
+Episode Length 749
+Atari Episode Score: 0.00000
+Atari Episode Length 746
+Episode Reward: 0.00000
+Episode Length 746
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 747
+Episode Reward: -3.00000
+Episode Length 747
+Atari Episode Score: 1.00000
+Atari Episode Length 750
+Episode Reward: 1.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -5.00000
+Atari Episode Length 402
+Episode Reward: -5.00000
+Episode Length 402
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: 0.00000
+Atari Episode Length 743
+Episode Reward: 0.00000
+Episode Length 743
+Atari Episode Score: -3.00000
+Atari Episode Length 748
+Episode Reward: -3.00000
+Episode Length 748
+Atari Episode Score: 0.00000
+Atari Episode Length 745
+Episode Reward: 0.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 749
+Episode Reward: -3.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 746
+Episode Reward: -1.00000
+Episode Length 746
+Atari Episode Score: -4.00000
+Atari Episode Length 749
+Episode Reward: -4.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -4.00000
+Atari Episode Length 745
+Episode Reward: -4.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: 1.00000
+Atari Episode Length 748
+Episode Reward: 1.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 744
+Episode Reward: -1.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 743
+Episode Reward: -3.00000
+Episode Length 743
+Atari Episode Score: -1.00000
+Atari Episode Length 743
+Episode Reward: -1.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 743
+Episode Reward: -2.00000
+Episode Length 743
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: 0.00000
+Atari Episode Length 748
+Episode Reward: 0.00000
+Episode Length 748
+Atari Episode Score: -3.00000
+Atari Episode Length 745
+Episode Reward: -3.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -5.00000
+Atari Episode Length 275
+Episode Reward: -5.00000
+Episode Length 275
+Atari Episode Score: -3.00000
+Atari Episode Length 744
+Episode Reward: -3.00000
+Episode Length 744
+Atari Episode Score: 2.00000
+Atari Episode Length 746
+Episode Reward: 2.00000
+Episode Length 746
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Atari Episode Score: -4.00000
+Atari Episode Length 745
+Episode Reward: -4.00000
+Episode Length 745
+Atari Episode Score: -2.00000
+Atari Episode Length 744
+Episode Reward: -2.00000
+Episode Length 744
+Atari Episode Score: -2.00000
+Atari Episode Length 748
+Episode Reward: -2.00000
+Episode Length 748
+Atari Episode Score: -1.00000
+Atari Episode Length 745
+Episode Reward: -1.00000
+Episode Length 745
+Atari Episode Score: -3.00000
+Atari Episode Length 746
+Episode Reward: -3.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 750
+Episode Reward: -2.00000
+Episode Length 750
+Atari Episode Score: -2.00000
+Atari Episode Length 746
+Episode Reward: -2.00000
+Episode Length 746
+Atari Episode Score: -2.00000
+Atari Episode Length 749
+Episode Reward: -2.00000
+Episode Length 749
+Atari Episode Score: -3.00000
+Atari Episode Length 688
+Episode Reward: -3.00000
+Episode Length 688
+Atari Episode Score: -2.00000
+Atari Episode Length 745
+Episode Reward: -2.00000
+Episode Length 745
+Atari Episode Score: -1.00000
+Atari Episode Length 749
+Episode Reward: -1.00000
+Episode Length 749
+Atari Episode Score: -2.00000
+Atari Episode Length 747
+Episode Reward: -2.00000
+Episode Length 747
+Atari Episode Score: -1.00000
+Atari Episode Length 750
+Episode Reward: -1.00000
+Episode Length 750
+Mean reward: -1.78865 +/- 1.63210
+Mean episode length: 733.28180 +/- 54.39353

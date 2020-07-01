@@ -142,14 +142,14 @@ def main():
             if is_atari and infos is not None and args.verbose >= 1:
                 episode_infos = infos[0].get('episode')
                 if episode_infos is not None:
-                    print("Atari Episode Score: {:.2f}".format(episode_infos['r']))
+                    print("Atari Episode Score: {:.5f}".format(episode_infos['r']))
                     print("Atari Episode Length", episode_infos['l'])
 
             #if done and not is_atari and args.verbose > 0:
             if done and args.verbose > 0:
                 # NOTE: for env using VecNormalize, the mean reward
                 # is a normalized reward when `--norm_reward` flag is passed
-                print("Episode Reward: {:.2f}".format(episode_reward))
+                print("Episode Reward: {:.5f}".format(episode_reward))
                 print("Episode Length", ep_len)
                 state = None
                 episode_rewards.append(episode_reward)
@@ -169,13 +169,13 @@ def main():
                     episode_reward, ep_len = 0.0, 0
 
     if args.verbose > 0 and len(successes) > 0:
-        print("Success rate: {:.2f}%".format(100 * np.mean(successes)))
+        print("Success rate: {:.5f}%".format(100 * np.mean(successes)))
 
     if args.verbose > 0 and len(episode_rewards) > 0:
-        print("Mean reward: {:.2f} +/- {:.2f}".format(np.mean(episode_rewards), np.std(episode_rewards)))
+        print("Mean reward: {:.5f} +/- {:.5f}".format(np.mean(episode_rewards), np.std(episode_rewards)))
 
     if args.verbose > 0 and len(episode_lengths) > 0:
-        print("Mean episode length: {:.2f} +/- {:.2f}".format(np.mean(episode_lengths), np.std(episode_lengths)))
+        print("Mean episode length: {:.5f} +/- {:.5f}".format(np.mean(episode_lengths), np.std(episode_lengths)))
 
     # Workaround for https://github.com/openai/gym/issues/893
     if not args.no_render:
