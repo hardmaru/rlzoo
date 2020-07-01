@@ -1,3 +1,12 @@
+# run the evaluation:
+
+'''
+python enjoy.py -f logs --algo a2c > eval_a2c.txt &
+python enjoy.py -f logs --algo acer > eval_acer.txt &
+python enjoy.py -f logs --algo acktr > eval_acktr.txt &
+python enjoy.py -f logs --algo dqn > eval_dqn.txt &
+'''
+
 import os
 import sys
 import argparse
@@ -10,6 +19,7 @@ warnings.filterwarnings("ignore", category=FutureWarning, module='tensorflow')
 warnings.filterwarnings("ignore", category=UserWarning, module='gym')
 
 import gym
+import slimevolleygym
 import utils.import_envs  # pytype: disable=import-error
 import numpy as np
 import stable_baselines
@@ -26,11 +36,11 @@ stable_baselines.common.buffers.Memory = stable_baselines.common.buffers.ReplayB
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--env', help='environment ID', type=str, default='CartPole-v1')
+    parser.add_argument('--env', help='environment ID', type=str, default='SlimeVolleyNoFrameskip-v0')
     parser.add_argument('-f', '--folder', help='Log folder', type=str, default='trained_agents')
     parser.add_argument('--algo', help='RL Algorithm', default='ppo2',
                         type=str, required=False, choices=list(ALGOS.keys()))
-    parser.add_argument('-n', '--n-timesteps', help='number of timesteps', default=1000,
+    parser.add_argument('-n', '--n-timesteps', help='number of timesteps', default=750*1000,
                         type=int)
     parser.add_argument('--n-envs', help='number of environments', default=1,
                         type=int)
@@ -38,17 +48,17 @@ def main():
                         type=int)
     parser.add_argument('--verbose', help='Verbose mode (0: no output, 1: INFO)', default=1,
                         type=int)
-    parser.add_argument('--no-render', action='store_true', default=False,
+    parser.add_argument('--no-render', action='store_true', default=True, # make this false if you want to see it in action on your computer.
                         help='Do not render the environment (useful for tests)')
-    parser.add_argument('--deterministic', action='store_true', default=False,
+    parser.add_argument('--deterministic', action='store_true', default=True,
                         help='Use deterministic actions')
     parser.add_argument('--stochastic', action='store_true', default=False,
                         help='Use stochastic actions (for DDPG/DQN/SAC)')
-    parser.add_argument('--load-best', action='store_true', default=False,
+    parser.add_argument('--load-best', action='store_true', default=True,
                         help='Load best model instead of last model if available')
     parser.add_argument('--norm-reward', action='store_true', default=False,
                         help='Normalize reward if applicable (trained with VecNormalize)')
-    parser.add_argument('--seed', help='Random generator seed', type=int, default=0)
+    parser.add_argument('--seed', help='Random generator seed', type=int, default=721)
     parser.add_argument('--reward-log', help='Where to log reward', default='', type=str)
     parser.add_argument('--gym-packages', type=str, nargs='+', default=[], help='Additional external Gym environemnt package modules to import (e.g. gym_minigrid)')
     parser.add_argument('--env-kwargs', type=str, nargs='+', action=StoreDict, help='Optional keyword argument to pass to the env constructor')
@@ -135,7 +145,8 @@ def main():
                     print("Atari Episode Score: {:.2f}".format(episode_infos['r']))
                     print("Atari Episode Length", episode_infos['l'])
 
-            if done and not is_atari and args.verbose > 0:
+            #if done and not is_atari and args.verbose > 0:
+            if done and args.verbose > 0:
                 # NOTE: for env using VecNormalize, the mean reward
                 # is a normalized reward when `--norm_reward` flag is passed
                 print("Episode Reward: {:.2f}".format(episode_reward))
